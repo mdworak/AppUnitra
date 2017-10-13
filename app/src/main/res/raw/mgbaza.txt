@@ -1,0 +1,99 @@
+﻿ZRK	;	Magnetofon	;	ALTUS - D60	;	tranzystory + ukł. scalone	;	198X	;	300 X 120 X 200	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	B 113	;	BC 413B, BC 148A, BC 148B, BC 148C, UL 1498R, ESM...	;	1978	;	240 x 160 x 85	;		;	4,75	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon przenośny	;	B 302 Ułan	;	tranzystory + ukł. scalone	;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon przenośny	;	B 303	;	tranzystory + ukł. scalone	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	K 8018	;	tranzystory	;	198x	;	300 x 200 x 120	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon przenośny	;	Kajtek PS101	;	tranzystory + ukł. scalone	;	1987	;	143x95x33	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon przenośny	;	Kapral B113 IC	;	tranzystory + ukł. scalone	;	1980	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 1416 s Uwertura Stereo	;		;		;	475x300x140	;	8	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 1417S STEREO	;	BC 108, BC 147, BC 148, BC 149, BC 157, BC BD 254,...	;	1977	;	470 x 310 x 150	;	8	;	9,53	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 1417s Uwertura Stereo	;		;	1977	;	475x300x140	;	8	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 2403 SD Dama Pik	;	tranzystory	;	1977	;	435 x 350 x 185	;	12	;	19,05 i 9,53	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 2404S Cosmos	;	BD254,tranzystory	;	1977	;		;		;	19,05 i 9,54	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 2405S	;	BD254,BC413B, BC109, BC108, BC211.tranzystory	;	1978	;		;		;	19,05 i 9,55	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 2406 QD 4Ch	;		;	1975	;		;		;	19,05	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 2407 S	;	tranzystory + ukł. scalone	;	1979-8X	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 2407 S Aria	;	tranzystory i układy scalone	;	1978	;	545 x 370 x 180	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	M 2407 S Opera	;	tranzystory + ukł. scalone	;	1979	;		;		;	19,05 i 9,55	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 2408 SD Aria	;	tranzystory + ukł. scalone	;	1978-81	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 2412 Aria	;	tranzystory + ukł. scalone	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	M 3016	;	tranzystory	;	1988	;	350x200x120	;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Magnetofon	;	M 512 SD SCHERZO	;		;	198x	;	440 X 360 X 160	;	6	;	4,75	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon przenośny	;	M 531 S	;	tranzystory	;	1975	;	300x225x75,	;	3,5	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Magnetofon	;	M 531 S	;	tranzystory	;	197X	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 532 SD	;	tranzystory	;	1977	;	300x220x75	;	3	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 536 SD HiFi Finezja 1	;	tranzystory	;	1979	;	420x125x250	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 601 SD Marcin	;		;	1977	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 624	;	tranzystory + ukł. scalone	;	1983-84	;	440 x 155 x 250	;	9	;	4,76 i 9,5	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 7010, M 7020	;	tranzystory + ukł. scalone	;	1983	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	M 8010	;	tranzystory + ukł. scalone	;	1981	;	300x200x120	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	M 8047	;	tranzystory + ukł. scalone	;	1986	;	300x200x120	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	M 9010	;	tranzystory + ukł. scalone	;	198x	;	440 x 117 x 230	;	7	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	M 9108	;	tranzystory + ukł. scalone	;	198x	;	440 x 117 x 230	;	7	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	M 9109	;	tranzystory + ukł. scalone	;	198x	;	440 x 117 x 230	;	7	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon element wieży	;	M 9115	;	tranzystory + ukł. scalone	;	198x	;	440 x 117 x 230	;	7	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon	;	M 9201	;	tranzystory + ukł. scalone	;	1990	;	440 x 117 x 230	;	7	;	4,76	;	brak	;	brak	;	brak	;	brak
+Magmor	;	Magnetofon kasetowy przenośny	;	M-101	;	tranzystory + ukł. scalone	;	1983	;	154 x 105 x 45	;	0,55	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	Mak B	;		;	196x	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	MDS 2412 ARIA	;	tranzystory + ukł. scalone	;	1983	;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon element wieży	;	MDS 411D Etiuda	;	tranzystory + ukł. scalone	;	1978	;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon element wieży	;	MDS 430	;	tranzystory + ukł. scalone	;	198x	;	440 x 90 x 260	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon element wieży	;	MDS 430 B	;	tranzystory + ukł. scalone	;	198x	;	440 x 90 x 260	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon	;	MDS 432	;	tranzystory + ukł. scalone	;	198x	;	440 x 90 x 260	;	7	;	4,76	;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon element wieży	;	MDS 442	;	tranzystory + ukł. scalone	;	1987	;	440x260x90	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon	;	MDS 4421	;	tranzystory + ukł. scalone	;	1990	;	440 x 260 x 90	;		;	4,76	;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon element wieży	;	MDS 4461	;	tranzystory + ukł. scalone	;	1985	;	440 x 112 x 260	;	7	;	4,76	;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon element wieży	;	MDS 450	;	tranzystory + ukł. scalone	;	198x	;	350 × 110 × 260	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon element wieży	;	MDS 456	;	tranzystory + ukł. scalone	;	1986	;	350 × 110 × 260	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	Melodia	;	lampy	;	1960	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	Melodia	;	2xECC85,EL84,EM4,SPS6B	;	1958	;	420x320x200	;	20	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	MK 121	;	tranzystory	;	1972	;	216x124x64	;	1,4	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	MK 122	;	AC187/188,tranzystory 10	;	1972	;	240x140x68	;	1,75	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	MK 125	;	AC180/181,tranzystory 10	;	1971	;	209 x 230 x 65	;	2,5	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	MK 125 IC	;	tranzystory + ukł. scalone	;	1972	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	MK 146	;	tranzystory	;	1974	;		;	3,5	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	MK 232 Automatic	;	tranzystory + ukł. scalone	;	1980	;		;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Magnetofon kasetowy przenośny	;	MK 232P	;	UL1498R, tranzystory	;	1980	;	168 x 260 x 62	;	1,9	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	MK 235 Automatic	;	tranzystory, US	;	1977	;	270x170x60	;	1,7	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Magnetofon kasetowy przenośny	;	MK 433	;	tranzystory, US	;	198x	;	270x170x60	;	1,7	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Magnetofon kasetowy przenośny	;	MK-250 Lelek	;	BC 338, UL 1498, UL 1901, UL 1354,	;	1987	;	150 x 268 x 49	;	1,2	;	4,76	;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Magnetofon kasetowy przenośny	;	MK-450 Orlik	;	BC 338, BC 308, 2 x BC 238b, UL 1498, UL 1901, UL ...	;	1987	;	150 x 268 x 49	;	1,2	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	MP 223	;		;		;		;		;	9,5 i 19	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	MP 224	;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	MS 2411 Aria	;	tranzystory + ukł. scalone	;	1983	;	540x360x170	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	MS 2425 Opus	;	tranzystory + ukł. scalone	;	1983	;		;		;		;	brak	;	brak	;	brak	;	brak
+Magmor	;	Magnetofon	;	MSD - 1402	;	tranzystory + ukł. scalone	;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Magmor	;	Magnetofon element wieży	;	MSD 5220	;	tranzystory	;	198x	;	300 x 90 x 230	;	4,1	;	4,76	;	brak	;	brak	;	brak	;	brak
+Magmor	;	Magnetofon	;	MSD-1405	;	tranzystory + ukł. scalone	;	198x	;	310 x 210 x 75	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon	;	MSH-101	;	tranzystory + ukł. scalone	;	1977-80	;	440x136x320	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon	;	MSH-201	;	tranzystory + ukł. scalone	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Elmasz	;	Magnetofon szpiergowski	;	Nagrywacz RS 1490	;		;	1986	;	155 x 85 x 22	;	0,4	;		;	brak	;	brak	;	brak	;	brak
+Elmasz	;	Magnetofon szpiergowski	;	Nagrywacz RS-1499	;	tranzystory	;	1986	;	155 x 85 x 22	;	0,4	;	2,4	;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetofon samochodowy	;	OMP 101	;	tranzystory	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Magnetofon przenośny	;	P 1005	;	tranzystory + ukł. scalone	;	1996	;		;		;		;	brak	;	brak	;	brak	;	brak
+Magmor	;	Magnetofon samochodowy	;	P 211 	;	BC 413C, BC 148C, BC 221-16, BC 158A, UL 1481P,	;	198x	;	54 x 138 x 166	;	1,5	;	4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	Piosenka	;	EF86,ECC85,EL84,EM4	;	1960	;	350x280x200	;	10	;	9,5	;	brak	;	brak	;	brak	;	brak
+Magmor	;	Magnetofon samochodowy	;	PS 212	;	UL 1481P, BC413C, BC148C, BC221-16, BC158A	;	198x	;	54 x 138 x 166	;	1	;		;	brak	;	brak	;	brak	;	brak
+Radmor	;	Magnetofon	;	Radmor 5430	;	tranzystory + ukł. scalone	;	1991	;	505 x 110 x 330	;		;	4,76	;	brak	;	brak	;	brak	;	brak
+Radmor	;	Magnetofon	;	Radmor 5533	;	tranzystory + ukł. scalone	;	1996	;	440x270x104	;	6	;	4,76	;	brak	;	brak	;	brak	;	brak
+Elmasz	;	Magnetofon	;	RK 1531	;	tranzystory	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	RR-3050	;	tranzystory	;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Elmasz	;	Magnetofon	;	RZ 1502	;	tranzystory	;	1986	;		;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Magnetofon	;	TAZ 480	;	tranzystory + ukł. scalone	;	1990	;	275x175x60	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	Tonette	;	EF86,ECC85,EL84,EM84	;	1963	;	355x300x170	;	10	;	9,5 i 4,76	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	Ułan B303	;	UL1489R, 7 tranzystorów	;	1979	;	225x210x65	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	Walker PS 101	;	tranzystory, IC	;	198x	;	95x142x35	;	0,27	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon kasetowy przenośny	;	Walker PS 102	;	tranzystory	;	1990	;	95 x 142 x 35	;	0,27	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Magnetofon szpulowy	;	Wilga 19	;	lampy	;	1960	;	385x300x210	;	15	;	9,53 i 19,05	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 120	;	ECC83,ECL86,EM84,SPS6B	;	1968	;	390x290x175	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 120T	;	AD161,AD162,tranzystory	;	1970	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 125	;	EF86,EF83,ECC81,ECL86,EM84	;	1969	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 127	;		;	197x	;	390 x 145 x 300 mm	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 140	;	ECC83,ECL86,EM84,SPS6B	;	1968	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 140T	;	AD161,AD162,tranzystory	;	1970	;		;		;		;	brak	;	brak	;	brak	;	brak
+Magmor	;	Magnetofon szpulowy	;	ZK 140TM (ZMP)	;	BD 354C, BD 355C	;	1985	;	400x290x170	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 145	;	ECL86, ECC81, EF83, EF86, EM84	;	1969	;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 146	;	BD 254, BC 147, BC 148, BC 149, BC 413, BC 157, B...	;	1974	;	390 x 300 x 150	;	7,5	;	9,52	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 147	;	BC147,BC148,BC149,BC157, BC211,BC413,BD254	;	1974	;	390x145x300	;	7,5	;	9,52	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 240	;	TG70x2,tranzystory 14	;	1974	;		;		;	9,53 i 19,05	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetofon szpulowy	;	ZK 246	;	tranzystory	;	1972	;	440x340x170	;		;		;	brak	;	brak	;	brak	;	brak

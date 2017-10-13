@@ -1,0 +1,313 @@
+﻿Barcarola 120	;	ZgB 80-8-564	;	80	;	120	;	90	;	8	;	45-22000	;	3 drożna	;	72x26x23	;	12,5	;	2x GDN 16/30/12 4Ω	;	GDM 10/60/2 8Ω	;	brak informacji	;	https://i.imgur.com/uaXQxr3m.jpg	;	https://i.imgur.com/KfrtFqUm.jpg	;	https://i.imgur.com/ai2EbMOm.jpg
+Barcarola 200	;	ZgB 130-8-564	;	130	;	200	;	89	;	8	;	35-22000	;	3 drożna	;	83,5x30,5x30,5	;	18	;	2x GDN 20/80 	;	GDM 16/60	;	GDWK 10/80	;	brak	;	brak	;	brak
+Barcarola 350	;	ZgB 180-8-564	;	180	;	350	;	92	;	8	;	35-22000	;	3 drożna	;	98x35x31	;	26	;	2x GDN 25/80/6 15Ω	;	GDM 18/100 8Ω,	;	GDWK 10/80/7 8Ω	;	brak	;	brak	;	brak
+Scherzo 200	;	ZgB 130-8-566	;	130	;	200	;	89	;	8	;	35-22000	;	3 drożna	;	85x30,5x30,5	;	18	;	2x GDN 20/60/1 15Ω	;	GDM 16/80 8Ω	;	GDWK 10/80/7 8Ω	;	brak	;	brak	;	brak
+Scherzo 110	;	ZgB 70-8-556	;	70	;	110	;	brak informacji	;	8	;	45-22000	;	3 drożna	;	51x19,5x26,7	;	6,5	;	2x GDN 12/35 15Ω	;	-	;	GDWK 8-13/120/1 8Ω	;	https://i.imgur.com/q2xSvqE.jpg	;	https://i.imgur.com/hAAgCYO.jpg	;	https://i.imgur.com/LRDxIkx.jpg
+Scherzo 120	;	ZgB 80-8-566	;	80	;	120	;	90	;	8	;	45-22000	;	3 drożna	;	68x26x23	;	12	;	2x GDN 16/30/9 4Ω	;	GDM 10/60/2 8Ω	;	GDWK 10/80/6 8Ω	;	https://i.imgur.com/vX6FbJR.jpg	;	https://i.imgur.com/iHaIBM5.jpg	;	https://i.imgur.com/Xec32VS.jpg
+Scherzo 160	;	ZgB 100-8-566	;	100	;	160	;		;	8	;	45-20000	;	3 drożna	;		;		;	2x GDN 16/40/3 4Ω	;	GDM 10/60/2 8Ω	;	GDWK 10/80 8Ω	;	https://i.imgur.com/BoBirAWm.jpg	;	https://i.imgur.com/fHzIJBXm.jpg	;	https://i.imgur.com/8f1rg2Gm.jpg
+Scherzo 350	;	ZgB 180-8-566	;	180	;	350	;	92	;	8	;	32-22000	;	3 drożna 	;	98x35x31	;	26	;	2x GDN 25/80 15Ω	;	GDM 18/80 8Ω	;	GDWK 10/80/7 8Ω	;	https://i.imgur.com/ZPQfSmd.jpg	;	https://i.imgur.com/9vFjqFH.jpg	;	https://i.imgur.com/zx9utZz.jpg
+New Alton 150	;	ZgB 80-8-686	;	80	;	150	;	90	;	8	;	50-18000	;	3 drożna	;	59x33x24,5	;	14	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+New Alton 170	;	ZgB 90-8-686	;	90	;	170	;	90	;	8	;	45-18000	;	3 drożna	;	65x3x30,5	;	16	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+New Alton 200	;	ZgB 120-8-686	;	120	;	200	;	91	;	8	;	40-18000	;	3 drożna	;	71x40x30,5	;	21	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+New Mildton 80	;	ZgC 60-8-683	;	60	;	80	;	89	;	8	;	65-20000	;	3 drożna	;	45,6x25,6x22,6	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+New Mildton 150	;	ZgB 80-8-793	;	80	;	150	;	90	;	8	;	45-22000	;	3 drożna	;	59x33x26	;	12	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+New Mildton 170	;	ZgB 100-8-793	;	100	;	170	;	90	;	8	;	40-22000	;	3 drożna 	;	65x33x30,5	;	16	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+New Mildton 200	;	ZgB 120-8-793	;	120	;	200	;	91	;	8	;	40-20000	;	3 drożna	;	71x40x30,5	;	21	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw dyskotekowy	;	ZgB 250-8-923	;	250	;	320	;	100	;	4 lub 8 	;	35-20000	;	3 drożna	;	96x50x40	;	40	;	GDN 38/200 8Ω	;	GDMT 18-36/160 8Ω	;	4x GDWT 9/80 8Ω	;	brak	;	brak	;	brak
+Zestaw dyskotekowy	;	ZgE 150-8-31	;	150	;	220	;	100	;	4 lub 8 	;	40-20000	;	3 drożna	;	88x45x35	;	36	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw wokalno-muzyczny	;	ZgB 200/8	;	200	;	280	;	95	;	8	;	40-20000	;	brak informacji	;	96x75x30	;	60	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw wokalno-muzyczny	;	ZgB 150/4	;	100	;	160	;	95	;	4	;	50-20000	;	brak informacji	;	75x50x30	;	30	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw monitorowy	;	ZgB 150-2	;	150	;	200	;	100	;	4 lub 8	;	50-20000	;	brak informacji	;	52x70x40	;	19	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw monitorowy	;	ZgB 100-2	;	100	;	150	;	98	;	4 lub 8 	;	55-20000	;	brak informacji	;	40x50x25	;	14	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw monitorowy	;	ZgB 50-2	;	50	;	100	;	95	;	4 lub 8 	;	60-20000	;	brak informacji	;	40x30x25	;	12	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw estradowy	;	ZgE 500	;	500	;	950	;	100	;	4 lub 8 	;	40-20000	;	brak informacji	;	167x80x100	;	158	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw estradowy	;	ZgE 300	;	300	;	550	;	104	;	4 lub 8	;	40-20000	;	brak informacji	;	252x103x85	;	192,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw głośnikowy studyjny	;	Classic -150 	;	130	;	180	;	90	;	8	;	35-30000	;	brak informacji	;	75x38x31	;	28	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Maestro 70	;	ZgB 40-8-530	;	40	;	70	;	84	;	8	;	40-25000	;	2 drożna	;	34x22,3x25,7	;	7	;	GDN 13/40/10 8Ω	;	-	;	GDWK 10/80T 8Ω	;	brak	;	brak	;	brak
+Maestro 80	;	ZgB 50-8-530	;	50	;	80	;	brak informacji	;	8	;	35-25000	;	2 drożna	;	85x22,3x30,2	;	15	;	GDN 13/40/10 8Ω	;	-	;	GDWK 10/80T 8Ω	;	https://i.imgur.com/31xDc22.jpg	;	https://i.imgur.com/xQ1GaFL.jpg	;	https://i.imgur.com/GpOhaiG.jpg
+Maestro 130	;	ZgB 70-8-530	;	70	;	130	;	87	;	6	;	35-25000	;	3 drożna	;	91x22,3x30,2	;	17	;	2x GDN 13/40/10 15Ω	;	-	;	GDWK 10/80/T 8Ω	;	brak	;	brak	;	brak
+Maestro 170	;	ZgB 80-8-530 	;	brak informacji	;	170	;	brak informacji	;	8	;	32-25000	;	3 drożna	;	100x34x29	;	20,5	;	GDN 20/60/29 8Ω,	;	GDM 12/60 8Ω	;	GDWK 10/80T 8Ω	;	https://i.imgur.com/siURclU.jpg	;	https://i.imgur.com/NRbDqbH.jpg	;	https://i.imgur.com/2R58cVJ.jpg
+Maestro 180	;	ZgB 90-8-530	;	100	;	180	;	86	;	8	;	28-25000	;	3 drożna	;	100x29x34	;	20,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Maestro 100-center	;	ZgB 50-6-530 C	;	60	;	100	;	85	;	6	;	45-25000	;	brak informacji	;	18x44x30,8	;	9	;	2x GDN 10/30/9 12Ω	;	-	;	GDWK 10/80T/1 8Ω	;	brak	;	brak	;	brak
+Maestro 120-center	;	ZgB 60-8-530 C	;	80	;	120	;	87	;	8	;	40-25000	;	brak informacji	;	22,3x51,2x30,2	;	12	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Altus 100	;	Zg 686	;	60	;	100	;	brak informacji	;	8	;	50-18000	;	3 drożna	;	68x42x28	;	19	;	GDN 25/40/3 8Ω	;	GDM 12/10 8Ω	;	GDWT 9/40/1 8Ω	;	brak	;	brak	;	brak
+Altus 120	;	Zg 886D	;	80	;	120	;	93	;	8	;	40-20000	;	3 drożna	;	75x44,2x32	;	28	;	GDN 30/60/3 8Ω	;	GDM 18/40/1 8Ω	;	GDWT 9/40 8Ω	;	brak	;	brak	;	brak
+Altus 150	;	brak informacji	;	70	;	150	;	89	;	8	;	45-18000	;	3 drożna	;	70x30x27,2	;	15	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/ZUvr5Di.jpg	;	https://i.imgur.com/9QLGfOe.jpg	;	https://i.imgur.com/ru4cjWz.jpg
+Altus 200	;	ZgB 110-8-651 	;	100	;	200	;	90	;	8	;	40-18000	;	3 drożna	;	81x34x33,5	;	21	;	GDN 25/80/1 8Ω	;	GDM 16/80/1 8Ω	;	GDWT 9/100FP 8Ω	;	https://i.imgur.com/6CTM9uC.jpg	;	https://i.imgur.com/LRxjr7e.jpg	;	https://i.imgur.com/OwWUBES.jpg
+Altus 300	;	ZgB 150-8-651 	;	150	;	300	;	91	;	8	;	30-18000	;	3 drożna	;	89x40x33,5	;	24	;	GDN 30/100/11 8Ω	;	GDM 18/80 8Ω	;	GDWT 9/100FP 8Ω	;	brak	;	brak	;	brak
+Altus 380	;	brak informacji	;	brak informacji	;	380	;	91	;	8	;	30-18000	;	3 drożna	;	89x43,5x33,5	;	24	;	GDN 30/100/11 8Ω	;	GDM 18/80 8Ω	;	GDWT 9/100FP 8Ω	;	brak	;	brak	;	brak
+Ton200	;	Zgb 200-8-559	;	200	;	400	;	94	;	8	;	45-20000	;	3 drożna	;	110x32x28	;	25	;	2x GDN 25/80 15Ω	;	GDM 10/80 8Ω	;	GDWT 9/70/2 F 8Ω	;	brak	;	brak	;	brak
+Ton 400	;	brak informacji	;	200	;	400	;	94	;	8	;	32-20000	;	3 drożna	;	110x35x30	;	25	;	2x GDN 25/80 15Ω	;	GDM 10/60 8Ω	;	GDWT 9/80 8Ω	;	brak	;	brak	;	brak
+Bolero 200	;	ZgB 100-8-540	;	100	;	200	;	86	;	8	;	35-22000	;	3 drożna	;	96x27x31	;	26	;	2x GDN 20/60/3 12Ω	;	GDN 16/40/4 15Ω	;	GDWK 8-11/120 15Ω	;	https://i.imgur.com/ofF4VTN.jpg	;	https://i.imgur.com/YuhcGMF.jpg	;	https://i.imgur.com/8YXT8Aa.jpg
+Bolero 200 LUX	;	ZgB 100-8-540 	;	100	;	200	;	86	;	8	;	35-20000	;	3 drożna	;	96x27x31	;	26	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Bolero 300	;	ZgB 150-4-540	;	150	;	300	;	85	;	8	;	32-20000	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	DSM 25 FFL 8Ω	;	brak	;	brak	;	brak
+Subwoofer Altus 80A	;	brak informacji	;	brak informacji	;	80	;	97	;		;	40-140	;	brak informacji	;	34x21,5x26,5	;	6	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer Altus 100A	;	brak informacji	;	brak informacji	;	100	;	98	;		;	35-140	;	brak informacji	;	49x25x35,5	;	14,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer Altus 120	;	brak informacji	;	brak informacji	;	120	;	98	;		;	35-140	;	brak informacji	;	62x25x35	;	15,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Voyager 350	;	ZgB 180-8-566	;	180	;	350	;	92	;	8	;	32-22000	;	3 drożna	;	98x35x31	;	26	;	2x GDN 25/80/6 15Ω	;	GDM 16/150 8Ω	;	GDWK 10/80/7 8Ω	;	brak	;	brak	;	brak
+Soundfinder 130	;	ZgB 50-8-543/B	;	70	;	130	;	88	;	8	;	45-22000	;	3 drożna	;	58,6x23,5x24	;	9,5	;	GDN 16/40/12 8Ω	;	GDM 10/80/5 8Ω	;	GDWK 8-12/120 8Ω	;	brak	;	brak	;	brak
+Soundfinder 250	;	ZgB 90-8-543/B	;	110	;	250	;	89	;	8	;	40-22000	;	3 drożna	;	85x23,5x24	;	12,5	;	2x GDN 16/40/12 15Ω	;	GDM 10/80/5 8Ω	;	GDWK 8-12/120 8Ω	;	brak	;	brak	;	brak
+Sonata dipol	;	ZgC 30-6-26 	;	brak informacji	;	80	;	84	;	4 lub 8	;	100-20000	;	brak informacji	;	23,5x17x16	;	2,4	;	GDN 10/30 8Ω	;	GD 10/20/7 15Ω	;	GDW 5/60/2 8Ω	;	brak	;	brak	;	brak
+Sonata center	;	ZgC 40-8-587	;	brak informacji	;	90	;	87	;	4 lub 8	;	70-20000	;	brak informacji	;	15,5x15x35	;	4,5	;	2x GDN 10/30/3 4Ω	;	-	;	GDW 5/40/12 8Ω	;	brak	;	brak	;	brak
+Sonata 120	;	ZgB60-4-553        	;	brak informacji	;	120	;	87	;	4 lub 8	;	40-22000	;	brak informacji	;	50x21x26,6	;	8	;	GDN 13/40/2 4Ω	;	-	;	GDWK 8/50/1 8Ω	;	brak	;	brak	;	brak
+Sonata 160	;	ZgB 70-4-553	;	brak informacji	;	160	;	88	;	4 lub 8	;	35-22000	;	brak informacji	;	75x24x29,6	;	14	;	GDN 13/40/2 8Ω	;	GDN 13/40/4 8Ω	;	GDWK 11/100 8Ω	;	brak	;	brak	;	brak
+Sonata 200	;	ZgB 90-4-553	;	90	;	200	;	88	;	4 lub 8	;	30-22000	;	brak informacji	;	90x27x31,6	;	16	;	2x GDN 16/40/1 8Ω	;	-	;	GDWK 11/100 8Ω	;	brak	;	brak	;	brak
+Perfect 150	;	ZgC 100-8-515	;	brak informacji	;	150	;	86	;	8	;	45-25000	;	brak informacji	;	50x28x24	;	11	;	GDN 20/60/15 8Ω	;	GDMK 11/60/2 8Ω	;	GDWK 8-13/120 8Ω	;	brak	;	brak	;	brak
+Tango 150	;	ZgB 70-6-529	;	brak informacji	;	150	;	87	;	8	;	40-20000	;	brak informacji	;	53x20,5x38	;	14,5	;	GDN 13/50/1 8Ω	;	GDN 13/40/3 7Ω	;	GDWK 11/100 8Ω	;	brak	;	brak	;	brak
+Tango 200	;	ZgB 100-8-523, ZgB 100-4-523	;	100	;	200	;	83	;	4 lub 8	;	28-20000	;	3 drożna	;	100x26x37	;	25,5	;	2x GDN 20/80 15Ω	;	GDN 16/50/4 15Ω	;	GDWK 10/80/8 8Ω	;	brak	;	brak	;	brak
+Zeus	;	ZgB 200-4-566	;	250	;	400	;	92	;	4	;	50-20000	;	brak informacji	;	98x31x35	;	brak informacji	;	GDN 30/120 8Ω	;	-	;	GDWT 12-19/100 8Ω	;	brak	;	brak	;	brak
+Excellence 1F	;	brak informacji	;	80	;	150	;	87	;	6	;	32-22000	;	2 drożne	;	85x18,5x27,4	;	16	;	2x GDN 13/50 12Ω	;	-	;	GDWK 10/80 8Ω	;	brak	;	brak	;	brak
+Excellence 1C	;	brak informacji	;	70	;	130	;	87	;	6	;	40-22000	;	2 drożna	;	18,5x48,5x27,4	;	12	;	2x GDN 13/50 12Ω	;	-	;	GDWK 10/80 8Ω	;	brak	;	brak	;	brak
+Excellence 1S	;	brak informacji	;	50	;	100	;	87	;	6	;	50-22000	;	2 drożna	;	32x18,5x27,4	;	7,5	;	GDN 13/50 6Ω	;	-	;	GDWK 10/80 8Ω	;	brak	;	brak	;	brak
+Maestro 50	;	ZgB 40-8-532	;	30	;	50	;	83	;	8	;	50-20000	;	2 drożna	;	28x18x17,5	;	4	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer Sub 200	;	brak informacji	;	brak informacji	;	2x200	;	86	;	2x8	;	32-150	;	brak informacji	;	25x62x35	;	14,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer Sub 200A	;	brak informacji	;	brak informacji	;	120	;	98	;		;	35-140	;	brak informacji	;	25x62x35	;	15,5	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/XmB17jd.jpg	;	https://i.imgur.com/PGa05yN.jpg	;	https://i.imgur.com/IUB5cD9.jpg
+Cz@t 130	;	ZgB 70-6-527	;	70	;	130	;	87	;	4 lub 8	;	35-20000	;	2 drożna	;	90x19x30	;	16	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Cz@t 100, Denon ?	;	ZgB 50-6-527	;	50	;	100	;	86	;	4 lub 8	;	55-20000	;	2 drożna	;	28,5x19x30	;	6,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Cz@t center	;	ZgC 40-8-527C	;	40	;	80	;	87	;	4 lub 8	;	50-20000	;	2 drożna	;	16x40,5x29,2	;	7,6	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Focus 180	;	brak informacji	;	100	;	180	;	90	;	4 lub 8	;	40-20000	;	2,5 drożna	;	105x15x24	;	14	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Focus 70	;	ZgB 40-6-532	;	40	;	70	;	87	;	4 lub 8	;	65-20000	;	2 drożna	;	26x15x21,5	;	6,8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Focus center	;	brak informacji	;	60	;	100	;	88	;	4 lub 8	;	55-20000	;	2 drożna 	;	15x41x27,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Focus 240 SE	;	ZgB 110-8-532	;	110	;	240	;		;	8	;	35-20000	;		;		;		;		;		;		;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg20C	;	20	;	brak informacji	;	brak informacji	;	4	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 16/12 15Ω lub GDN 16/10 15Ω	;	-	;	2x GDW 6,5/1,5 15Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg20C/5A	;	20	;	brak informacji	;	brak informacji	;	4 lub 8	;	60-18000	;	brak informacji	;	54x29,5x23	;	10,5	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/rIOSLaL.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg25C/3A	;	25	;	brak informacji	;	brak informacji	;	4 lub 8	;	60-18000	;	brak informacji	;	57,5x35,5x25	;	12,5	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/2oixLvx.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg40C/11	;	40	;	brak informacji	;	brak informacji	;	8	;	65-20000	;	brak informacji	;	57x35x25	;	13,5	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/nIUmoHd.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg40C/6A	;	40	;	brak informacji	;	brak informacji	;	4 lub 8	;	40-20000	;	brak informacji	;	64x42x26	;	21	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/aBHPcMZ.png	;	brak	;	brak
+Zestaw Tonsil (zg60c201?)	;	Zg60C/1	;	60	;	brak informacji	;	brak informacji	;	8	;	30-20000	;	brak informacji	;	68x44x28	;	28	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/pqA7qje.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg30C/11	;	30	;	brak informacji	;	brak informacji	;	8	;	70-20000	;	brak informacji	;	53,5x29x22,5	;	11	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/FCEYOht.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg30C112	;	30	;	brak informacji	;	brak informacji	;	8	;	60-18000	;	2 drożny	;	45,5x26,5x21,5	;	9	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/FCjcDtY.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg30C114	;	30	;	brak informacji	;	brak informacji	;	4	;	50-20000	;	brak informacji	;	53,5x29x22,5	;	11	;	GDN 20/30/1 4Ω	;	-	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg30C115	;	30	;	brak informacji	;	brak informacji	;	8	;	50-20000	;	brak informacji	;	53,5x29,22,5	;	11	;	GDN 20/30 8Ω	;	-	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg30C201	;	30	;	brak informacji	;	brak informacji	;	8	;	55-20000	;	2 drożna	;	57,3x35,3x25,2	;	13,5	;	GDN 20/30 8Ω	;	MB20	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg40C/2	;	40	;	brak informacji	;	brak informacji	;	4	;	40-20000	;	Membrana bierna	;	64x42x25	;	21	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg40C/5, /8, /9	;	40	;	brak informacji	;	brak informacji	;	4 lub 8	;	40-20000	;	3 drożny z membraną bierną	;	64x42x25	;	21	;	GDN 25/40/1 4/8Ω	;	GD 12/5/2 4/8Ω i MB25	;	GDWK 9/40 4/8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg40C201	;	40	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 25/40/3 8Ω	;	GD 12/5 8Ω i MB25	;	GDWK 9/40/1 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg40C114	;	30	;	brak informacji	;	brak informacji	;	4	;	brak informacji	;	2 drożny	;	53,5x29x22,5	;	11	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/oFznoSM.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg40C115	;	40	;	brak informacji	;	brak informacji	;	8	;	65-18000	;	3 drożne 	;	57x35x25	;	13,5	;	GDN 20/30 8Ω	;	GD 12/5/4 8Ω	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg60C/11	;	60	;	brak informacji	;	brak informacji	;	8	;	50-20000	;	brak informacji	;	68x42x28	;	19	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/SPg2uyq.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg60C115	;	60	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	3 drożna	;	68x42x25	;	brak informacji	;	GDN 25/60/1 8Ω	;	GD 12/5/4 8Ω	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg60C201	;	60	;	brak informacji	;	brak informacji	;	8	;	40-20000	;	3 drożna	;	68x44x32	;	28	;	GDN 30/60 8Ω	;	GDM 18/40/1/Siare 17 MSP 8Ω	;	GDWK 9/40 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg80C/11	;	80	;	brak informacji	;	brak informacji	;	8	;	40-20000	;	brak informacji	;	72x44x32	;	28	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/DuiYvD1.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg80C115	;	80	;	brak informacji	;	brak informacji	;	8	;	30-20000	;	3 drożna	;	75x44x32	;	28	;	GDN 30/60/3 8Ω	;	GDM 18/40/1 8Ω	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg5C	;	5	;	brak informacji	;	brak informacji	;	4 lub 8	;	100-13000	;	brak informacji	;	20x14x18,5	;	2	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg8C	;	8	;	brak informacji	;	brak informacji	;	4 lub 8 	;	100-15000	;	brak informacji	;	24x16x22	;	4	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg15C	;	15	;	brak informacji	;	brak informacji	;	4 lub 8	;	70-16000	;	2 drożna	;	33x20x20	;	4,7	;	GDN 16/15 8Ω	;	-	;	GDW 9/15 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg15C11	;	15	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	2 drożna	;	35x20x20	;	4	;	GDN 16/15 	;	brak informacji	;	brak informacji	;	https://i.imgur.com/WA0aasn.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg15C/2	;	15	;	brak informacji	;	brak informacji	;	15	;	90-15000	;	brak informacji	;	20x18,8x18,6	;	4,4	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg25C	;	25	;	brak informacji	;	brak informacji	;	4	;	40-20000	;	brak informacji	;	45x24,6x22,6	;	9	;	2x GDN 16/12 8Ω	;	-	;	GDWK 9/40 8Ω	;	https://i.imgur.com/M7QBHxC.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg25C/11	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/2AcnAu6.png	;	brak	;	brak
+Zestaw Tonsil	;	Zg10	;	10	;	brak informacji	;	brak informacji	;	8	;	70-11000	;	brak informacji	;	36x24x18	;	4,5	;	GDN 30/80 8Ω	;	GDM 18/80 8Ω	;	GDWT 9/40/1 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg10/2	;	10	;	brak informacji	;	brak informacji	;	4	;	70-12000	;	brak informacji	;	36x24x18	;	4,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg10/3	;	10	;	brak informacji	;	brak informacji	;	8	;	70-18000	;	brak informacji	;	39,6x27,6x14	;	5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg5S	;	5	;	brak informacji	;	brak informacji	;	4	;	170-9000	;	brak informacji	;	11x18,2x70	;	1	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg5S/1	;	5	;	brak informacji	;	brak informacji	;	4	;	170-9000	;	brak informacji	;	11x17x6,2	;	0,6	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg5C/S	;	5	;	brak informacji	;	brak informacji	;	4 lub 8	;	200-14000	;	brak informacji	;	średnica 9,5	;	0,45	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg8C/S	;	8	;	brak informacji	;	brak informacji	;	4 lub 8	;	150-12500	;	brak informacji	;	średnica 13,5	;	1	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg3/1	;	3	;	brak informacji	;	brak informacji	;	4 lub 8 lub 15	;	150-10000	;	brak informacji	;	15,6x17x9,5	;	1	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg8C/2	;	8	;	brak informacji	;	brak informacji	;	4 lub 8	;	100-12000	;	brak informacji	;	średnica 19	;	1,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg8C/3	;	8	;	brak informacji	;	brak informacji	;	4 lub 8	;	100-12000	;	brak informacji	;	średnica 19	;	1,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg8C/4	;	8	;	brak informacji	;	brak informacji	;	4 lub 8	;	150-12500	;	brak informacji	;	średnica 13,5	;	1,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg10C/4	;	10	;	brak informacji	;	brak informacji	;	8 lub 15	;	60-15000	;	brak informacji	;	średnica 28	;	4,3	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg10C/5	;	10	;	brak informacji	;	brak informacji	;	8 lub 15	;	60-15000	;	brak informacji	;	średnica 28	;	4,3	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg10C/6	;	10	;	brak informacji	;	brak informacji	;	8 lub 15	;	60-15000	;	brak informacji	;	średnica 28	;	3,4	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Dynamic Speaker HX 70	;	ZgB 60-8-50	;	70	;	80	;	brak informacji	;	8	;	brak informacji	;	3 drożna	;	60x27,5x20	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Dynamic Speaker HX 60	;	ZgB 50-8-50	;	50	;	70	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/40 8Ω	;	-	;	GDWT 9/40 8Ω	;	brak	;	brak	;	brak
+Dynamic Speaker HX 80	;	ZgB 70-8-50	;	70	;	brak informacji	;	brak informacji	;	8	;	40-20000	;	3 drożna	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Dynamic Speaker HX 100	;	ZgB 100-8-50	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZGZ-20/4-H5	;	25	;	brak informacji	;	brak informacji	;	4	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 16/12	;	-	;	GDWK 9/40	;	brak	;	brak	;	brak
+Zestaw Diora ZGZ 	;	Zgz 20/4-H1	;	20	;	30	;	brak informacji	;	4	;	50-18000	;	3 drożna	;	45,6x24,6x22,6	;	10	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Eltra (Space 4ohm)	;	ZgC 50-4-682	;	50	;	75	;	90	;	4	;	55-20000	;	3 drożna	;	45,6x25,6x26,6	;	7,5	;	GDN 20/40/16 4Ω	;	GDM 10/60/4 8Ω	;	GDWK 7/50 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 20-8-019	;	brak informacji	;	20?	;	brak informacji	;	8	;	brak informacji	;	2 drożna	;	brak informacji	;	brak informacji	;	brak informacji	;	GD 16/20 8Ω	;	GDW 9/15 8Ω	;	brak	;	brak	;	brak
+Eltron	;	Zg-601	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDS 30/15 4Ω	;	brak informacji	;	brak	;	brak	;	brak
+Eltron	;	ZG-602	;	60	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDS 30/30 4Ω	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 20-8-44	;	brak informacji	;	20	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	38x21x15	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 30-8-517	;	30	;	50	;	brak informacji	;	8	;	40-20000	;	2 drożna	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Yellow Line	;	ZgB 100-8-922	;	100	;	160	;	89	;	8	;	40-20000	;	3 drożna	;	111x23,6x29,6	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgB 30-8-901	;	30	;	40	;	85	;	8	;	100-20000	;	2 drożny	;	50x21,2x18,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora	;	ZgC 100-8-903	;	100	;	140	;	91	;	8	;	50-20000	;	3 drożny	;	90x26,5x28,7	;	20	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Sat 3.4	;	ZgC 20-8-511	;	20	;	35	;	brak informacji	;	8	;	100-20000	;	1 drożny	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Satelita zestawu Sub Sat1.1	;	ZgC 40-8-513	;	40	;	60	;	86	;	8	;	80-25000	;	2 drożny	;	22,5x12x16,7	;	2,5	;	GDN 10/30 8Ω	;	-	;	GDWK 7/50/19 8Ω	;	brak	;	brak	;	brak
+Kolumna centralna zestawu Sub Sat1.1/Sat3.3	;	ZgC 40-8-587	;	brak informacji	;	60	;	86	;	8	;	70-20000	;	2 drożny	;	35x15x15,5	;	4,5	;	2x GDN 10/30/3 4Ω	;	-	;	GDW 5/40/12 8Ω	;	brak	;	brak	;	brak
+Subwoofer zestawu Sub Sat1.1	;	ZgN 120-8-513	;	120	;	160	;	86	;	2x8	;	40-140	;	brak informacji	;	46x16x33	;	12	;	2x GDN 13/50/1 8Ω	;	-	;	-	;	brak	;	brak	;	brak
+Satelita zestawu Sub Sat2.1	;		;	40	;	60	;	brak informacji	;	8	;	100-25000	;	brak informacji	;	22,5x12x17	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer zestawu Sub Sat2.1	;	brak informacji	;	120	;	200	;	brak informacji	;	8	;	32-160	;	brak informacji	;	46x16x33	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 35-8-685	;	brak informacji	;	60	;	90	;	8	;	50-20000	;	3 drożny	;	44x26x23	;	5,5	;	GDN 20/35/1 8Ω	;	GDW 9/15 8Ω	;	GDW 5/40 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgS 6-8-545	;	brak informacji	;	8	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg 10/8-S2	;	brak informacji	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	2 drożna	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg 10	;	10	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	1 drożny	;	35,7x17,7x23,7	;	4,25	;	brak informacji	;	GDS 20/10 8Ω	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora	;	ZgB 60-8-901	;	60	;	100	;	86	;	8	;	50-20000	;	2 drożny	;	63,5x27,2x23,6	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/YdSFCmX.jpg	;	https://i.imgur.com/FVe2xjc.jpg	;	brak
+Zestaw Tonsil	;	ZgC 40-8-581	;	40	;	brak informacji	;	brak informacji	;	8	;	60-20000	;	2 drożny	;	25,6x25,6x22,6	;	8,5	;	GDN 20/40 8Ω	;	-	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+ENCEINTE HIFIVOX EA 4585	;	ZgC 80-8-559	;	80	;	brak informacji	;	90	;	8	;	50-20000	;	3 drożny	;	84,5x32x27	;	14	;	2x GDN 20/40 4Ω	;	GDM 10/60/4 8Ω	;	GDWK 9/80/2 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 60-8-670	;	60	;	brak informacji	;	brak informacji	;	8	;	70-20000	;	3 drożny	;	74x30x28	;	14,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 25-8-585	;	25	;	50	;	90	;		;	50-20000	;	3 dorżny	;	44x26x21	;	5	;	GD 20/20 8Ω	;	-	;	GDW 5/40 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg 70-C23	;	70	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil Zg 100-C27????	;	Zg 100-C23	;	100	;	brak informacji	;	brak informacji	;	8	;	30-18000	;	brak informacji	;	71x40x32	;	28	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 60-8-42	;	60	;	75	;	brak informacji	;	8	;	brak informacji	;	3 drożne	;	14,5x18x29	;	4	;	GDN 16/50/1 8Ω	;	GDM 8/10 8Ω	;	GDW 4/10 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 50-8-44	;	50	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	3 drożna	;	56,5x29x21	;	brak informacji	;	GDN 20/40 8Ω	;	GDM 10/60/2 8Ω	;	GDWK 9/80/1 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg 386	;	30	;	brak informacji	;	brak informacji	;	8	;	65-18000	;	brak informacji	;	53,5x29x22,4	;	11	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 25-8-569	;	25	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	3 drożny	;	48x20x18	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil (Saba)	;	ZgC 65-8-656	;	70	;	130	;	91	;	8	;	45-20000	;	3 drożny	;	58x33x23	;	15	;	GDN 25/55 8Ω	;	GDM 12/60/2 8Ω	;	GDWK 9/80/4 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil 	;	ZgP 25-8-555	;	25	;	35	;	92	;	4 lub 8	;	90-20000	;	2 drożny	;	48x20x17,5	;	4	;	GD 16/25 8Ω	;	-	;	GDW 5/40/5 8Ω	;	brak	;	brak	;	brak
+Eltron 60	;	Zg-603	;	60	;	brak informacji	;	brak informacji	;	8	;	43-12000	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDS 30/30 4Ω	;	-	;	2x GDWT 9/40 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 40-4-580, ZgC 40-8-580	;	40	;	brak informacji	;	brak informacji	;	4 lub 8	;	60-18000	;	2 drożny	;	brak informacji	;	10,5	;	GDN 20/40 4Ω	;	-	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+Manuet	;	ZgC 80-8-544	;	80	;	150	;	86	;	8	;	50-20000	;	3 drożny	;	50x28x24	;	10	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Hearton 98	;	ZgC 100-9-598?	;	100	;	150	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Sayo SXM 80	;	Space '86' Export	;	50	;	70	;	brak informacji	;	8	;	brak informacji	;	3 drożny	;	45,6x25,6x26,6	;	7,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer Pasywny	;	Bass 250	;	100	;	250	;	92	;	4	;	40-2500	;	brak informacji	;	50x25	;	7,9	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora	;	Astra 4	;	100	;	200	;	89	;	4 lub 8	;	45-35000	;	3 drożny	;	103x24x19	;	brak informacji	;	2x ARN 150-03/8 	;	ARP 150-00/4 	;	D25AG-05-06 	;	brak	;	brak	;	brak
+Zestaw Diora	;	Astra 5	;	100	;	200	;	90	;	4 lub 8	;	45-35000	;	3 drożny	;	brak informacji	;	brak informacji	;	ARN 150-03/4 i 2x ARN 150-03/8	;	ARP 150-00/4 	;	D25AG-05-06 	;	brak	;	brak	;	brak
+Zestaw Diora	;	Astra 1	;	20	;	40	;	87	;	8	;	100-18000	;	1 drożny	;	brak informacji	;	brak informacji	;	-	;	GD 10/20/8 8Ω	;	-	;	brak	;	brak	;	brak
+Zestaw Diora	;	Astra 3	;	80	;	160	;	87	;	4 lub 8	;	60-35000	;	2 drożny	;	brak informacji	;	brak informacji	;	2x ARN 150-73/8	;	-	;	D25ASG-05-06	;	brak	;	brak	;	brak
+Altus 65	;	Zg586	;	40	;	65	;	93	;	8	;	65-18000	;	3 drożny	;	brak informacji	;	brak informacji	;	GDN 20/40 8Ω	;	GDM 12/10 8Ω	;	GDWT 9/40/1 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZE-150	;	150	;	brak informacji	;	97	;	8	;	50-20000	;	brak informacji	;	62,5x47x41	;	22	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZE-500	;	500	;	brak informacji	;	99	;	8	;	40-20000	;	4 drożna	;	140x53x46	;	62	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZE-300	;	300	;	brak informacji	;	99	;	8	;	40-20000	;	brak informacji	;	62,5x53x46	;	33	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZE-400	;	400	;	500	;	99	;	8	;	40-20000	;	brak informacji	;	66x53x46	;	36	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Fonica 	;	A-40	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 25/40/1 4Ω	;	GD 12/5 4Ω	;	GDWK 9/40 4Ω	;	brak	;	brak	;	brak
+Zestaw Diora	;	Wega 2 120	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Samba 250	;	ZgB-90-8-543	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 16/40/12 15Ω	;	GDM 10/80/5 8Ω	;	GDWK 8-12/120 8Ω	;	https://i.imgur.com/ZOPG1TY.jpg	;	brak	;	brak
+Satelita zestawu Sub Sat2.2	;	ZgB 60-8-594	;	60	;	80	;	86	;	8	;	80-25000	;	2 drożny	;	18x28x18,6	;	3,5	;	GDN 13/40/1 8Ω	;	-	;	GDWK 7/50/19 8Ω	;	brak	;	brak	;	brak
+Kolumna centralna zestawu Sub Sat2.2	;	ZgB 50-8-590	;	50	;	80	;	87	;	8	;	60-25000	;	2 drożny	;	48x16,8x20,5	;	7	;	2x GDN 12/35/2 15Ω	;	-	;	GDWK 7/50/19 8Ω	;	brak	;	brak	;	brak
+Subwoofer zestawu Sub Sat2.2	;	ZgN 200-8-594	;	240	;	400	;	86	;	8	;	32-150	;	brak informacji	;	62x25x35	;	16,5	;	2x GDN 20/80 8Ω	;	-	;	-	;	brak	;	brak	;	brak
+Satelita zestawu Sub Sat3.3	;	ZgC 30-8-511	;	brak informacji	;	50	;	85	;	8	;	80-20000	;	2 drożny	;	13,5x22,5,16	;	2,6	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer zestawu Sub Sat3.3	;	ZgN 500-6-511, ZgN 50-6-11	;	100	;	200	;	85	;	6	;	40-200	;	brak informacji	;	41,5x22x34	;	7	;	GDN 20/30/S 2x 8Ω	;	-	;	-	;	brak	;	brak	;	brak
+Satelita zestawu Mix24	;	brak informacji	;	50	;	100	;	84	;	4 lub 8	;	80-20000	;	brak informacji	;	32x19x24	;	4,8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Kolumna frontowa zestawu Mix24	;	brak informacji	;	100	;	250	;	86	;		;	50-20000	;	brak informacji	;	74x22,7x22	;	8,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Kolumna centralna zestawu Mix24	;	brak informacji	;	50	;	100	;	87	;		;	70-20000	;	brak informacji	;	16,2x37x24	;	5,3	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Subwoofer aktywny zestawu Mix24	;	brak informacji	;	25	;	150	;	94	;		;	40-150	;	brak informacji	;	45x22x22	;	8,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Siesta Front	;	brak informacji	;	100	;	brak informacji	;	89	;	6	;	45-25000	;	2 drożny	;	117x20x23,8	;	20	;	2 x GDN 15/40/5 8 Ω	;	-	;	GDWK 10/80/26 8 Ω	;	brak	;	brak	;	brak
+Siesta Sat	;	brak informacji	;	50	;	100	;	87	;	6	;	65-20000	;	2 drożny	;	32,6x20x23,8	;	7	;	GDN 15/40/5 4 Ω	;	-	;	GDWK 10/80/26 8 Ω	;	brak	;	brak	;	brak
+Siesta Center	;	brak informacji	;	100	;	200	;	90	;	6	;	65-20000	;	2 drożny	;	20x48,2x23,8	;	11	;	GDN 15/40/5 8 Ω	;	-	;	GDWK 10/80/26 8 Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Rapsodia 200	;	100	;	200	;	85	;	8	;	35-20000	;	brak informacji	;	100,7x22,6x31	;	17,5	;	GDN 20/80 8Ω i GDN 13/40/2 8Ω	;	brak informacji	;	GDWK 10/80/8 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Fenix Front	;	120	;	250	;	86	;	8	;	50-20000	;	3 drożny	;	90x22,7x22	;	10	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Kolumna frontowa zestawu Fenix II	;	brak informacji	;	120	;	250	;	86	;	8	;	50-20000	;	3 drożny	;	90x22,7x22	;	10	;	brak informacji	;	brak informacji	;	brak informacji	;	https://i.imgur.com/GLnOpUC.jpg	;	https://i.imgur.com/9rfKbQd.jpg	;	https://i.imgur.com/UgYpSeT.jpg
+Satelita zestawu Fenix II	;	brak informacji	;	40	;	100	;	84	;	8	;	80-20000	;	2 drożny	;	32x24x19	;	4,8	;	GDN 13/30/17 8 Ω	;	-	;	GDWK 8/10/2 8 Ω	;	https://i.imgur.com/U33ycz6.jpg	;	https://i.imgur.com/Z6phrZG.jpg	;	https://i.imgur.com/NOnP6rd.jpg
+Kolumna centralna zestawu Fenix II	;	brak informacji	;	70	;	120	;	87	;	8	;	70-20000	;		;	16,2x37x24	;	5,3	;	2 x GDN 10/30/3/2 12 Ω	;		;		;	https://i.imgur.com/MVtp08B.jpg	;	https://i.imgur.com/yvVsuq2.jpg	;	https://i.imgur.com/JHpIL16.jpg
+Subwoofer aktywny zestawu Fenix II	;	brak informacji	;	70	;	200	;	91	;		;	35-150	;		;	62,5x25,2x40	;	18	;	2 x GDN 20/80 8 Ω	;		;		;	https://i.imgur.com/8UmJwmH.jpg	;	https://i.imgur.com/8KVrmFu.jpg	;	https://i.imgur.com/hl7ba3n.jpg
+Maestro II 60	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Maestro II 130	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2 x GDN 15/40/4 15 ohm	;	-	;	GDWK 10/80/19/2 8 ohm	;	brak	;	brak	;	brak
+Maestro II 180	;	brak informacji	;	100	;	180	;	90	;	8	;	30-20000	;	3 drożny	;	100x24x32,5	;	21	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Maestro II 100C	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 11/35/7 12 Ohm	;	-	;	GDWK 8/50/5 8 Ohm	;	brak	;	brak	;	brak
+Aktiv 200A Maestro II	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;		;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2xGDN 20/80 8Ω	;	-	;	-	;	brak	;	brak	;	brak
+Mildton 70	;	Zgb 70-8-693	;	70	;	brak informacji	;	brak informacji	;	8	;	50-20000	;	3 drożny	;	59x33x26	;	12	;	GDN 25/60 8Ω	;	GDM 10/60/2 8Ω	;	GDWK 9/80/5 8Ω	;	brak	;	brak	;	brak
+Mildton 80, Mexton LG-8890	;	ZgB 80-8-693	;	80	;	brak informacji	;	brak informacji	;	8	;	45-20000	;	3 drożny	;	65x33x30,5	;	16	;	GDN 25/60 8Ω	;	GDM 12/60/2 8Ω	;	GDWK 9/80/6 8Ω	;	brak	;	brak	;	brak
+Mildton 110	;	ZgB 110-8-693	;	110	;	brak informacji	;	brak informacji	;	8	;	40-20000	;	3 drożny	;	71x40x30,5	;	21	;	GDN 30/80/2 8Ω	;	GDM 16/80/1 8Ω	;	GDWK 9/80/6 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil 	;	TLC Classic 2	;	120	;	180	;	87	;	6	;	32-20000	;	3 drożny	;	90x21x35	;	18	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	TLC Classic 1	;	160	;	250	;	87	;	6	;	28-20000	;	3 drożny	;	100x26x38,5	;	28	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Alton 110 Disco	;	ZgB 110-8-590	;	110	;	210	;	brak informacji	;	8	;	35-18000	;	3 drożny	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Fantazja 70	;	ZgB 50-4-567	;	50	;	70	;	brak informacji	;	4	;	50-20000	;	2 drożny	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Fantazja 100	;	ZgB 60-4-567	;	60	;	100	;	brak informacji	;	4	;	40-22000	;	2,5 drożny	;	brak informacji	;	brak informacji	;	2x GDN 16/40/1 8Ω	;	-	;	GDWK 10/80/8 8Ω	;	brak	;	brak	;	brak
+Soundfinder 250	;	ZgB 90-8-543/B	;	brak informacji	;	brak informacji	;	89	;	8	;	brak informacji	;	brak informacji	;	85x24x23,5	;	12,5	;	2x GDN 16/40/12 15Ω	;	GDM 10/80/5 8Ω	;	GDWK 8-12/120 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Bio-speaker	;	60	;	brak informacji	;	91,5	;	8	;	20-20000	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Soundfinder 130	;	ZgB 50-8-543/B	;	70	;	130	;	88	;	8	;	45-22000	;	3 drożny	;	58,6x24x23,5	;	9,5	;	GDN 16/40/12 8Ω	;	GDM 10/80/5 8Ω	;	GDWK 8-12/120 8Ω	;	brak	;	brak	;	brak
+Zestaw Radmor	;	LS-10	;	80	;	brak informacji	;	87	;	8	;	45-22000	;	2 drożny	;	42x21,5x30	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Radmor	;	Ls-20	;	100	;	150	;	88	;	8	;	40-22000	;	2 drożny	;	95,4x21,1x28,2	;	16	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Radmor	;	Ls-30	;	100	;	150	;	88	;	8	;	35-25000	;	2 drożny	;	95,4x21,1x28,2	;	17	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Radmor	;	Ls-40	;	100	;	brak informacji	;	90	;	8	;	25-25000	;	2 drożny	;	95,4x21,1x28,2	;	17	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	XT200	;	80?	;	brak informacji	;	brak informacji	;		;	60-20000	;	brak informacji	;	71x40x29	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Polaris 80	;	ZgB 50-8-909	;	50	;	80	;	85	;	8	;	50-20000	;	2 drożny	;	20x20x40	;	6,8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Polaris 120	;	ZgB 80-8-909	;	80	;	120	;	86	;	8	;	45-20000	;	2 drożny	;	80x22x20	;	12	;	2x ARN 150-03/4 4Ω	;	-	;	GDWK 8-11/120 8Ω	;	brak	;	brak	;	brak
+Polaris 180	;	ZgB 120-8-909	;	120	;	180	;	88	;	8	;	45-20000	;	3 drożny	;	95x25x23,8	;	15	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Polaris 200	;	ZgB 140-8-909	;	140	;	200	;	89	;	8	;	40-20000	;	3 drożny	;	100x27,5x25	;	18	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Polaris 300	;	ZgB 180-8-909	;	180	;	300	;	90	;	8	;	35-20000	;	4 drożna	;	110x27,5x25	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Altus 75	;	ZgB 65-8-61	;	65	;	brak informacji	;	91	;	8	;	45-20000	;	3 drożny	;	59x33x26	;	12	;	GDN 25/40/3 8Ω	;	GDM 10/60 8Ω	;	GDWT 9/40/3 8Ω	;	brak	;	brak	;	brak
+Altus 110, Geton GT 10051	;	Zgb 70-8-61	;	70	;	brak informacji	;	91	;	8	;	40-20000	;	3 drożna	;	65x33x31,5	;	19	;	GDN 25/40/3 8Ω	;	GDM 12/60 8Ω	;	GDWT 9/40/5 8Ω	;	https://i.imgur.com/8l2YiFJm.jpg	;	https://i.imgur.com/TR6QzFNm.jpg	;	https://i.imgur.com/pQm3UKzm.jpg
+Altus 140	;	ZgB 100-8-61	;	100	;	brak informacji	;	90	;	8	;	35-20000	;	3 drożny	;	71x40x32	;	28	;	GDN 30/60/1 6Ω	;	GDM 18/80 8Ω	;	GDWT 9/40/5 8Ω	;	brak	;	brak	;	brak
+Zestaw Fonica	;	A-17	;	20	;	brak informacji	;	87	;	8	;	60-16000	;	brak informacji	;	53,5x20x32	;	14	;	2x GDN 16/12 15Ω lub GDN 16/10 15Ω	;	-	;	2x GDW 6,5/1,5 15Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Blues 150	;	80	;	150	;	brak informacji	;	8	;	55-20000	;	3 drożny	;	47,5x29,5x24,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Space '86'	;	ZgC 50-8-682	;	50	;	70	;	90	;	8	;	60-20000	;	3 drożny	;	45,6x25,6x22,6	;	7,5	;	GDN 20/40/14 8Ω	;	GDM 10/60/4 8Ω	;	GDWK 7/50 8Ω	;	brak	;	brak	;	brak
+Space '94'	;	ZgC 50-8-782	;	50	;	75	;	90	;	8	;	55-20000	;	3 drożny	;	45,6x25,6x26,6	;	7,5	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Alton 70	;	ZgB 70-8-684	;	70	;	brak informacji	;	91	;	8	;	45-18000	;	3 drożny	;	59x33x26	;	11	;	GDN 25/60/1 8Ω	;	GDM 10/60/4 8Ω	;	GDWT 9/70/1 8Ω	;	brak	;	brak	;	brak
+Alton 80	;	ZgB 80-8-684	;	brak informacji	;	80	;	92	;	8	;	45-18000	;	3 drożny	;	65x33x32	;	19	;	GDN 25/60/1 8Ω	;	GDM 12/60 8Ω	;	GDWT 9/70/1 8Ω	;	brak	;	brak	;	brak
+Alton 110	;	ZgB 110-8-684	;	brak informacji	;	110	;	92	;	8	;	35-18000	;	3 drożny	;	71x40x32	;	27	;	GDN 30/80/4 8Ω	;	GDM 16/80 8Ω	;	GDWT 9/80 8Ω	;	https://i.imgur.com/4gQHCrv.jpg	;	https://i.imgur.com/nxASkCb.jpg	;	https://i.imgur.com/mwR9gMR.jpg
+Disco 110	;	ZgC 60-8-537	;	60	;	90	;	89	;	8	;	40-20000	;	3 drożny	;	48x27x29,5	;	11	;	GDN 20/60/11 8Ω	;	GDM 10/80/1 8Ω	;	GDWK 8/80/2 8Ω	;	brak	;	brak	;	brak
+Disco 60	;	ZgC 40-8-536	;	40	;	60	;	brak informacji	;	8	;	60-22000	;	3 drożny	;	42,5x24x19	;	brak informacji	;	-	;	GD 16/40/3 8Ω	;	-	;	brak	;	brak	;	brak
+Disco 90	;	ZgC 60-8-536	;	60	;	90	;	brak informacji	;	8	;	60-20000	;	2 drożny	;	42,5x24x18,7	;	5,2	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Mazurek 110	;	Zgb 70-8-576	;	70	;	110	;	87	;		;	45-22000	;	2 drożny	;	50,8x26,7x19,5	;	6	;	2x GDN 12/35	;	-	;	GDWK 8-13/120	;	brak	;	brak	;	brak
+Mini 30/Zg30C22	;	ZgC 30-8-522	;	30	;	45	;	87	;		;	80-20000	;	2 drożny	;	24x15,5x14,5	;	4,5	;	GDN 12/30/1 8Ω	;	-	;	GDWK 7/50 8Ω	;	brak	;	brak	;	brak
+Mini 60	;	brak informacji	;	brak informacji	;	100	;	brak informacji	;	brak informacji	;	60-20000	;	3 drożny	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Polonez 120	;	ZgB 80-8-592	;	80	;	120	;	90	;	8	;	45-20000	;	2 drożny	;	50,8x26,7x19,5	;	8	;	2x GDN 13/50/1 4Ω	;	-	;	GDWK 8-13/120 8Ω	;	brak	;	brak	;	brak
+Cheops 200	;	ZgB 100-8-507	;	100	;	200	;	87	;	8	;	40-20000	;	3 drożny	;	70x37x37	;	17,5	;	GDN 20/60/11 8Ω	;	GDMK 11/60/3 8Ω	;	GDWK 8/80/2 8Ω	;	brak	;	brak	;	brak
+Rondo 300	;	ZgD 100-8-538	;	100	;	300	;	85	;	8	;	45-22000	;	3 drożny	;	83x28x28	;	19,5	;	GDN 20/80 8Ω	;	GDM 10/80/2 8Ω	;	GDWK 8-11/120 8Ω	;	brak	;	brak	;	brak
+Hearton 59, Fisher STE-220	;	brak informacji	;	140	;	250	;	93	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	25	;	2x GDN 25/60/3 4Ω	;	GDM 10/60/2 8Ω	;	GDWT 9/70/2 8Ω	;	brak	;	brak	;	brak
+Zestaw Eltron	;	Zg 120G	;	120	;	brak informacji	;	brak informacji	;	4	;	60-10000	;	brak informacji	;	brak informacji	;	30	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Altus 60	;	Zg 486	;	brak informacji	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	14,5	;	GDN 25/40/3 8Ω	;	-	;	GDWT 9/40 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg60C22	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 16/50 8Ω	;	-	;	GDWK 9/80/1 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	Zg60cC27	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgA 65-95	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/100 4Ω	;	-	;	-	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgA 80-594        	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 20/80 8Ω	;	-	;	-	;	brak	;	brak	;	brak
+Altus II	;	ZgB 150-8-50	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GD 30/50 8Ω	;	GDM 18/80 8Ω	;	GDWT 9/80/5F 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 20-4-12	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 10/30/2 4Ω	;	-	;	GDWK 8/50 8Ω	;	brak	;	brak	;	brak
+Oberek 50	;	ZgB 30-8-576	;	brak informacji	;	50	;	brak informacji	;	8	;	45-20000	;	2 drożny	;	brak informacji	;	brak informacji	;	GDN 12/35 8Ω	;	-	;	GDWK 7/50 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 35-8-28	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	-	;	GD 16/40 8Ω	;	GDWK 7/50/6 8Ω	;	brak	;	brak	;	brak
+SC-M07	;	ZgB 40-4-174	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/30/1 4Ω	;	-	;	GDWK 8.5/50 8Ω	;	brak	;	brak	;	brak
+SC-F10LX	;	ZgB 40-4-74	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/30/1 4Ω	;	-	;	PMK 19/125 Z 8Ω	;	brak	;	brak	;	brak
+SC-F10S	;	ZgB 40-4-74	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/30/1 4Ω	;	-	;	GDWK 8.5/50 8Ω	;	brak	;	brak	;	brak
+SC-F88	;	ZgB 40-4-75	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/30/4 4Ω	;	- 	;	GDWK 8/50 8Ω	;	brak	;	brak	;	brak
+SC-F 05               	;	ZgB 40-4-78	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/30/5 4Ω	;	-	;	GDWK 8.5/60 8Ω	;	brak	;	brak	;	brak
+TL 51 - Acron	;	ZgB 40-4-95	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/30/6 4Ω	;	-	;	GDWK 8.5/50 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 40-8-582	;	40	;	brak informacji	;	brak informacji	;	8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 40-8-582	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/40 8Ω	;	-	;	GDW 9/15 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 40-8-69	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 16/50/5 4Ω	;	-	;	MBD 19 8Ω	;	brak	;	brak	;	brak
+SC-VC-100S	;	ZgB 50-4-75	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 13/30/3 8Ω	;	-	;	PMK 25/170R-025 K 452 8Ω	;	brak	;	brak	;	brak
+Acron ART.100 	;	ZgB 50-4-95	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/40/3 4Ω	;	-	;	GDWK 11/100 4Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 50-8-510	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 18/40 7Ω	;	-	;	GDWK 10/80/12 8Ω	;	brak	;	brak	;	brak
+Samba 130	;	ZgB 50-8-510	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 18/40 7Ω	;	-	;	GDWK 10/80/12 8Ω	;	brak	;	brak	;	brak
+Aria 50	;	ZgB 50-8-574	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/40/2 8Ω	;	-	;	GDWK 8.5/50 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 50-8-667	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 10/30/2 4Ω	;	-	;	GDWK 10/80/13 8Ω	;	brak	;	brak	;	brak
+SC-350S	;	ZgB 55-4-74	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 16/40/1 4Ω	;	-	;	GDWK 10/80/11 4Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 55-8-554	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/40/19 8Ω	;	GDM 10/60/3 8Ω	;	GDWT 10/80/3 8Ω	;	brak	;	brak	;	brak
+SC-F05L	;	ZgB 60-4-21	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 16/50/8 4Ω i GDN 10/30/6 4Ω	;	-	;	GDWK 10/80/18 4Ω	;	brak	;	brak	;	brak
+Interior 5000	;	ZgB 60-4-67	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 16/40/1 7Ω	;	-	;	GDWK 10/80/8 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 60-4-69	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/60/19 4Ω	;	GDM 12/60/3 4Ω	;	MBD 19T 8Ω	;	brak	;	brak	;	brak
+SC-450S	;	ZgB 60-4-73	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 16/40/2 4Ω	;	-	;	GDWK 11/100 8Ω	;	brak	;	brak	;	brak
+SC-400S	;	ZgB 60-4-74	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 16/40/1 5Ω	;	-	;	PMK 25/170 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 60-4-766	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x MBC 160 P 7Ω	;	-	;	GDWK 10/80/9 8Ω	;	brak	;	brak	;	brak
+Acron ART.200	;	ZgB 60-4-95	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 15/50/8 4Ω	;	GDM 10/80/4 5Ω	;	GDWK 11/100 4Ω	;	brak	;	brak	;	brak
+SC-650S	;	ZgB 70-4-73	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/40/8 8Ω	;	-	;	GDWK 11/100 8Ω	;	brak	;	brak	;	brak
+SC-600S	;	ZgB-70-4-74	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/40/1 8Ω i GDN 13/40/4 8Ω	;	-	;	PMK 25/170 8Ω	;	brak	;	brak	;	brak
+Interior 5000	;	ZgB 80-4-67	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 20/60/16 7Ω	;	-	;	CPH 2501 4Ω	;	brak	;	brak	;	brak
+Zestaw Diora	;	ZgB 80-8-505	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/60/6 8Ω	;	GDM 11/60 6Ω	;	GDWK 10/80/T 8Ω	;	brak	;	brak	;	brak
+Zestaw Diora	;	ZgB 80-8-903	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/60/3 8Ω	;	GDM 10/60/2 8Ω	;	GDWK 10/80/6 8Ω	;	brak	;	brak	;	brak
+SC-1050S	;	ZgB 90-4-73	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 16/40/2 8Ω	;	-	;	GDWK 11/100 8Ω	;	brak	;	brak	;	brak
+SC-1000S	;	ZgB 90-4-74	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 16/40/1 8Ω	;	-	;	PMK 25/170 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 90-4-95	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 13/40/3 7Ω	;	-	;	GDWK 11/100 4Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgB 90-8-20	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 25/60/2 8Ω	;	GDM 10/60/5 8Ω	;	GDWK 9/80/1 8Ω	;	brak	;	brak	;	brak
+Mazurek 160	;	ZgB 90-8-576	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 16/45 15Ω	;	-	;	GDWK 8-13/120 8Ω	;	brak	;	brak	;	brak
+Zestaw Diora	;	ZgC 100-8-98	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/40 4Ω	;	GDM 10/60/2 8Ω	;	GDWK 9/80/6 8Ω	;	brak	;	brak	;	brak
+Zestaw Diora	;	ZgC 120-8-59	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 25/55 4Ω	;	GDM 10/60/3 8Ω	;	GDWT 9/70/2 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 20-16-11	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	-	;	GD 10/20/6 16Ω	;	-	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 20-8-11  	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	-	;	GD 10/20/3 8Ω	;	-	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 25-8-57	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/30 8Ω	;	-	;	GDWK 9/40 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgC 30-4-56	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/30 4Ω	;	-	;	GDWK 9/40 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil(Mini 30??) 	;	ZgC 30-8-51	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 12/30/1 8Ω	;	-	;	GDWK 7/50 8Ω	;	brak	;	brak	;	brak
+Disco 100	;	ZgC 60-8-736	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/60/3 8Ω	;	-	;	GDWK 9/120/12F 8Ω	;	brak	;	brak	;	brak
+CATH AP 140	;	ZgC 65-8-523	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 25/60 8Ω	;	GDM 10/60 8Ω	;	GDWK 7/50 8Ω	;	brak	;	brak	;	brak
+QLE	;	ZgN 60-4-514	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 13/50/1 8Ω	;	-	;	-	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 20-8-55	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	-	;	GD 16/25 8Ω	;	GDW 5/40/5 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 20-8-90  	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	-	;	GD 16/20 8Ω	;	GDW 9/15 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 25-8-555 	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	-	;	GD 16/25 8Ω	;	GDW 5/40/5 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgP 20-8-062	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	-	;	GD 20/20	;	GDW 6,5/1,5	;	brak	;	brak	;	brak
+Sanyo SX-225, TSUBA JF-540, Renkforce LB-6090	;	ZgP 25-8-585 	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GD 20/20 8Ω i GDW 9/15 8Ω	;	GDW 9/15 8Ω	;	brak	;	brak	;	brak
+Zestaw Tonsil	;	ZgS 20-8-525	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GD 12/20 8Ω	;	GDW 5/40 8Ω	;	brak	;	brak	;	brak
+Diamond 7.1    	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	1326A 4Ω	;	-	;	GDWK 8/10/1 8Ω	;	brak	;	brak	;	brak
+Diamond 7.2	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/50/6 4Ω	;	-	;	0318A 8Ω	;	brak	;	brak	;	brak
+Diamond 7.3	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/50/6 4Ω	;	-	;	0318A 8Ω	;	brak	;	brak	;	brak
+Sapphire SP 83	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	1746A 8Ω	;	-	;	0318A 8Ω	;	brak	;	brak	;	brak
+Sapphire SP 85	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	1746A 8Ω	;	-	;	0318A 8Ω	;	brak	;	brak	;	brak
+Valdus 100	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 13/40/7 4Ω	;	-	;	GDWK 8/10/1 8Ω	;	brak	;	brak	;	brak
+Valdus 200	;	brak informacji	;	100	;	brak informacji	;	4 lub 8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 16/30 4Ω	;	-	;	GDWK 8/10/1 8Ω	;	brak	;	brak	;	brak
+Valdus 300	;	brak informacji	;	100	;	brak informacji	;	4 lub 8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	GDN 20/40/19 8Ω	;	-	;	GDWK 8/10/1 8Ω	;	brak	;	brak	;	brak
+Valdus 400	;	brak informacji	;	150	;	brak informacji	;	4 lub 8	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 20/40/19 8Ω	;	-	;	GDWK 8/10/1 8Ω	;	brak	;	brak	;	brak
+Valdus 500	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	3x GDN 20/40/16 8Ω	;	-	;	GDWK 8/10/1 8Ω	;	brak	;	brak	;	brak
+Valdus Central	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x 1040A 4Ω	;	-	;	GDWK 8/10/1 8Ω	;	brak	;	brak	;	brak
+Dual CL 1000	;	brak informacji	;	130	;	200	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	2x GDN 20/60 8Ω	;	GDM 16/80 8Ω	;	GDWK 9/80 8Ω	;	brak	;	brak	;	brak
+CATH SB 90             	;	brak informacji	;	60	;	90	;	8	;	brak informacji	;	36-20000	;	brak informacji	;	brak informacji	;	brak informacji	;	TT 165 P-2 8Ω lub GD 16/25 8Ω	;	01-P-8 8Ω lub GDW 9/15/1 8Ω	;	HTK 10-P1 8Ω lub GDWK 8/10 8Ω	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgB 30-8-907 	;	30	;	40	;	8	;	86	;	55-20000	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgC 40-8-904 	;	40	;	50	;	8	;	89	;	60-20000	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgC 70-8-904 	;	70	;	90	;	8	;	89	;	60-20000	;	brak informacji	;	60x24x21	;	brak informacji	;	4x GDN 20/40/8 15Ω	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgB 80-8-903 	;	80	;	120	;	8	;	87	;	50-20000	;	3 drożny	;	81x29x26	;	15,6	;	GDN 20/60/3 8Ω	;	GDM 10/60/2 8Ω	;	GDWK 10/80/6 8Ω	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgB 100-8-907	;	100	;	140	;	8	;	87	;	50-20000	;	3 drożne	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgC 120-8-903 	;	120	;	180	;	8	;	88	;	45-2000	;	brak informacji	;	100x26x28,5	;	23	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak
+Zestaw Diora 	;	ZgB 140-8-907	;	140	;	200	;	8	;	87	;	40-20000	;	3 drożny	;	97x30x30	;	30	;	brak informacji	;	brak informacji	;	brak informacji	;	brak	;	brak	;	brak

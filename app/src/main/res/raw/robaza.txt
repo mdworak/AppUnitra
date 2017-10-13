@@ -1,0 +1,505 @@
+﻿Adagio 62126	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1962-63	;		;	57x25x21,6	;		;	brak	;	brak	;	brak	;	brak
+Adam DMT 445	;	Diora	;	Radioodbiornik	;		;	AC180/181,tranzystory 10	;	1973-75	;		;	50,5x13,5x17	;	4	;	brak	;	brak	;	brak	;	brak
+Afrodyta	;	Diora	;	Radioodbiornik	;		;		;	1977	;		;		;		;	brak	;	brak	;	brak	;	brak
+Aida AWS-103	;	Diora	;	Radioodbiornik	;		;		;	198x	;		;	440 x 90 x 305	;		;	brak	;	brak	;	brak	;	brak
+Akropol 2	;	Diora	;	Radioodbiornik samochodowy	;		;	tranzystory	;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+Akropol SMT 303	;	Diora	;	Radioodbiornik samochodowy	;		;	TBA810A, tranzystory	;	1973-77	;		;	184x55x145	;	1,2	;	brak	;	brak	;	brak	;	brak
+Alba DMP-408	;	Diora	;	Radioodbiornik	;		;		;	1977-79	;		;	473x185x93	;		;	brak	;	brak	;	brak	;	brak
+Alert	;	Diora	;	Radioodbiornik	;		;		;	1977	;		;		;		;	brak	;	brak	;	brak	;	brak
+Alfa	;	Diora	;	Radioodbiornik	;		;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Alina	;	Diora	;	Radioodbiornik przenośno-samochodowy	;		;	tranzystory Ge	;	1971	;		;	288x183x88	;	3	;	brak	;	brak	;	brak	;	brak
+Alina 2	;	Diora	;	Radioodbiornik przenośny	;		;	tranzystory 12	;	1975 przed	;		;	305x90x230	;	3,2	;	brak	;	brak	;	brak	;	brak
+Amator 2 Stereo DSS 201	;	Diora	;	Radioodbiornik	;		;	tranzystory, IC	;	1979	;		;	495 x 120 x 230	;		;	brak	;	brak	;	brak	;	brak
+Amator 2b stereo	;	Diora	;	Radioodbiornik	;		;		;	197x-	;		;		;		;	brak	;	brak	;	brak	;	brak
+Amator 3 stereo AWS 110	;	Diora	;	Radioodbiornik	;		;	tranzystory, układy	;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Amator stereo DSS 101	;	Diora	;	Radioodbiornik	;	2x4W	;	tranzystory, IC	;	1975	;		;		;		;	brak	;	brak	;	brak	;	brak
+Amor DMT-407	;	Diora	;	Radioodbiornik	;		;	UL1402, tranzystory 6	;	1974	;		;	440 x 220 x 105	;		;	brak	;	brak	;	brak	;	brak
+APKC 322 (Wiraż)	;	Diora	;	Radioodbiornik samochodowy	;		;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Aria 62128	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECC83,EL84,EM84	;	1963-66	;		;		;	16	;	brak	;	brak	;	brak	;	brak
+AS 205 (206) FAUST S	;	Diora	;	Radioodbiornik tuner	;		;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+AS 211D Faust	;	Diora	;	Radioodbiornik tuner	;		;		;	198X	;		;		;		;	brak	;	brak	;	brak	;	brak
+AS 250	;	Diora	;	Radioodbiornik tuner	;		;		;	199X	;		;		;		;	brak	;	brak	;	brak	;	brak
+AS 252, AS 254	;	Diora	;	Radioodbiornik tuner	;		;		;	1986	;		;	350 x 70 x 260	;	3	;	brak	;	brak	;	brak	;	brak
+AS 502	;	Diora	;	Radioodbiornik tuner	;		;		;	199X	;		;		;		;	brak	;	brak	;	brak	;	brak
+AS 641	;	Diora	;	Radioodbiornik tuner	;		;	LC7266, SAS580/590,UL1200N,TCA-4500A,UL1203,UL1550	;	1988	;		;	440X265X90	;		;	brak	;	brak	;	brak	;	brak
+AS 952	;	Diora	;	Radioodbiornik tuner	;		;		;	199X	;		;	350 x 70 x 260	;	3	;	brak	;	brak	;	brak	;	brak
+AS-618	;	Diora	;	Radioodbiornik tuner	;		;		;	1985	;		;	440X260X90	;	4,6	;	brak	;	brak	;	brak	;	brak
+AS-632, AS 633	;	Diora	;	Radioodbiornik tuner	;		;		;	198x	;		;	440 x 90 x 260	;	4,6	;	brak	;	brak	;	brak	;	brak
+AS-642	;	Diora	;	Radioodbiornik tuner	;		;		;	198x	;		;	440x90x260	;		;	brak	;	brak	;	brak	;	brak
+Atena Stereo DST-305	;	Diora	;	Radioodbiornik	;		;	AD161/162, tranzystory 27	;	1973-75	;		;	707x170x190	;	8 + 3 (dodatkowa kolumna)	;	brak	;	brak	;	brak	;	brak
+Atut 2 24602	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1967-1969	;		;	420x155x150	;	3	;	brak	;	brak	;	brak	;	brak
+Azymut PMP-105	;	Diora	;	Radioodbiornik przenośny	;		;	UL1498R, UL1211N, tranzystory	;	1978	;		;	270x150x70	;	2	;	brak	;	brak	;	brak	;	brak
+Ballada 24504	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECH81,EF89,ECL86,DOG55,SPS6B	;	1968-72	;		;		;	8	;	brak	;	brak	;	brak	;	brak
+Barkarola	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM80	;	1962-65	;		;	640x297x345	;		;	brak	;	brak	;	brak	;	brak
+Beata TW-201	;	Diora	;	Radioodbiornik przenośny	;	>=1	;	AC180k, AC181k, BCP109b, BCP109c, BFP214, BFP215	;	1973-74	;	9v (6 baterii typu R14)	;	288x183x88	;	2,75	;	brak	;	brak	;	brak	;	brak
+Beskid DMP 411	;	Diora	;	Radioodbiornik	;	5	;	UL1402P,UL1211N, tranzystory 5	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Biwak PMP - 401	;	Diora	;	Radioodbiornik	;	200 mW przy h ≤ 4% i R = 8Ω	;	4 tranzystory, 2 układy scalone	;	1979	;	6V (4 ogniwa R6)	;	170 x 100 x 40	;	0,5	;	brak	;	brak	;	brak	;	brak
+Boston 62123	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECC83,EL84,EM84	;	1963-64	;		;	500x259x315	;	16	;	brak	;	brak	;	brak	;	brak
+Boston II 22402	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECC83,EL84,EM84	;	1965	;		;	500x259x315	;	16	;	brak	;	brak	;	brak	;	brak
+Calypso 21702	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EF89, EF80,EL84,EM80,SPS6B	;	1961 po	;		;	580x302x237	;	10	;	brak	;	brak	;	brak	;	brak
+Calypso 62015	;	Diora	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, EF80, EL84, EM80	;	1961 po	;		;	580×302×237	;	10	;	brak	;	brak	;	brak	;	brak
+CAMP R-201	;	Diora	;	Radioodbiornik przenośny	;		;		;	1990	;		;		;		;	brak	;	brak	;	brak	;	brak
+Camping 2 PMP-107	;	Diora	;	Radioodbiornik przenośy	;		;		;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+Camping PMP-102	;	Diora	;	Radioodbiornik przenośny	;		;	UL1498R,UL1211N,tranzystory	;	1977	;		;	270x150x70	;	2	;	brak	;	brak	;	brak	;	brak
+Carmen stereo 22801	;	Diora	;	Radioodbiornik z gramofonem	;	2 x 3	;	ECC85,ECH81,EBF89,ECC83x3, EL84x2,EM84	;	1965-1967	;		;	282x321x605	;	13	;	brak	;	brak	;	brak	;	brak
+Cezar Quadro	;	Diora	;	Radioodbiornik	;		;	STK015,UL1601,tranzystory	;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+Chronos	;	Diora	;	Radioodbiornik	;	0,7	;	AC180/181,tranzystory 10	;	1974	;		;	285x70x185	;	3	;	brak	;	brak	;	brak	;	brak
+Concertino 24301	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1967-70	;		;		;		;	brak	;	brak	;	brak	;	brak
+Contessa DMP 201	;	Diora	;	Radioodbiornik	;		;		;	1974-78	;		;		;		;	brak	;	brak	;	brak	;	brak
+Continent	;	Diora	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL82	;	1963	;		;		;		;	brak	;	brak	;	brak	;	brak
+D 401 24403	;	Diora	;	Radioodbiornik	;		;	ECH81,EF89,ECL86,DOG55,SPS6B	;	1969-70	;		;	445x200x150	;	6,5	;	brak	;	brak	;	brak	;	brak
+D-400	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1968-69	;		;	420x160x150	;		;	brak	;	brak	;	brak	;	brak
+D-401 24441	;	Diora	;	Radioodbiornik	;		;	ECH81, EF89, ECL86, SPS6B	;	1969	;		;	445 x 200 x 150	;		;	brak	;	brak	;	brak	;	brak
+Diana-stereo DST 301	;	Diora	;	Radioodbiornik	;	2 x 5	;	GD608/618,tranzystory	;	1971	;		;	600x210x205	;	8	;	brak	;	brak	;	brak	;	brak
+DKT-103 HiFi quadro	;	Diora	;	Zestaw kwadrofoniczny	;		;	tranzystory, IC	;	1975	;		;		;		;	brak	;	brak	;	brak	;	brak
+DML 302 25503	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1971	;		;	612x212x204	;		;	brak	;	brak	;	brak	;	brak
+DML-301 25501 a	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86	;	1970-72	;		;	612x212x204	;		;	brak	;	brak	;	brak	;	brak
+DML-301 25501 b	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1970	;		;	612x212x204	;		;	brak	;	brak	;	brak	;	brak
+DML-351 25502	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECL86	;	1970	;		;	640x300x310	;		;	brak	;	brak	;	brak	;	brak
+DML-402	;	Diora	;	Radioodbiornik	;		;	ECH81,EF89,ECL86	;	1970-71	;		;	445x200x150	;		;	brak	;	brak	;	brak	;	brak
+DMP-404	;	Diora	;	Radioodbiornik	;		;	UL1402,UL1211	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+DMP-501 Akord	;	Diora	;	Radioodbiornik	;		;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+DMT 401	;	Diora	;	Radioodbiornik	;		;	AC180/181, tranzystory 10	;	1972	;		;	508x158x135	;	4	;	brak	;	brak	;	brak	;	brak
+DMTL 202 25801	;	Diora	;	Radioodbiornik	;	5	;	ECC85,ECH81,EF183,EBF89,EM84,SPS-6B/1,tranzystory ...	;	1971	;		;	620x260x200	;	8	;	brak	;	brak	;	brak	;	brak
+Dominik DMP-203	;	Diora	;	Radioodbiornik	;		;		;	1974-1977	;		;		;		;	brak	;	brak	;	brak	;	brak
+Donatina 11602	;	Diora	;	Radioodbiornik z gramofonem	;		;	AC180/181,tranzystory 10	;	1972	;		;		;		;	brak	;	brak	;	brak	;	brak
+DSL-201 (T)	;	Diora	;	Radioodbiornik tuner	;		;	ECC85,ECH81,EF183,EBF89, EM84,tranzystory 6	;	1971	;		;	590x247x170	;	8	;	brak	;	brak	;	brak	;	brak
+DSP 301	;	Diora	;	Radioodbiornik	;	2 x 5	;		;	1977	;		;	450x180x100	;		;	brak	;	brak	;	brak	;	brak
+DST 105	;	Diora	;	Radioodbiornik stereo 	;	2 x 15	;		;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+DST 201	;	Diora	;	Radioodbiornik stereo 	;	2 x 5	;	tranzystory	;	1970	;		;		;		;	brak	;	brak	;	brak	;	brak
+DSTL 202	;	Diora	;	Radioodbiornik stereo 	;	2 x 5 	;	ECC85,ECH81,EF183,EBF89,tranzystory	;	1972-73	;		;	590x247x170	;	12	;	brak	;	brak	;	brak	;	brak
+Duet DSP-301	;	Diora	;	Radioodbiornik stereo 	;		;	UL1211, UL1601, 2xUL1481T, 11 tranzystorów	;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+Echo SSS 101	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1977	;		;	184 x 55 x 145	;		;	brak	;	brak	;	brak	;	brak
+Eliza TP 321	;	Diora	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1973	;		;	280x160x70	;	2	;	brak	;	brak	;	brak	;	brak
+Elizabeth DMT 201 mono	;	Diora	;	Radioodbiornik	;		;	tranzystory, US	;	1974	;		;		;		;	brak	;	brak	;	brak	;	brak
+Elizabeth DST 202	;	Diora	;	Radioodbiornik	;	2 x 9	;	STK015, IC, tranzystory ( 16 tranzystorów, 18 dio...	;	1973	;		;	485 x 145 x 235	;	7	;	brak	;	brak	;	brak	;	brak
+Elizabeth DST 203	;	Diora	;	Radioodbiornik	;		;	STK015,UL1601,tranzystory	;	1976	;		;	487 x 145 x 240	;		;	brak	;	brak	;	brak	;	brak
+Elizabeth Hi Fi DSH-102	;	Diora	;	Radioodbiornik	;		;	GLM026 (STK015), UL1601, tranzystory	;	1976	;		;	487 x 145 x 240	;		;	brak	;	brak	;	brak	;	brak
+Estrella	;	Diora	;	Radioodbiornik przenośny	;		;	AC180/181, tranzystory 9+2	;	1976	;		;	270x150x70	;	1,7	;	brak	;	brak	;	brak	;	brak
+Ewa	;	Diora	;	Radioodbiornik przenośny/turystyczny	;		;	TG60x2, tranzystory 12	;	1969	;	9v (4 x R14) lub akumulator samochodowy	;	290x175x87	;	3,1	;	brak	;	brak	;	brak	;	brak
+Ewa 2 (a)	;	Diora	;	Radioodbiornik przenośny	;		;	ADP665x2, tranzystory	;	1972	;	9V (4 x R14) lub zasilanie zewętrzne	;		;		;	brak	;	brak	;	brak	;	brak
+Ewa 2 (b)	;	Diora	;	Radioodbiornik przenośny	;		;	AC187/188, tranzystory	;	1974	;	9V (4 x R14) lub zasilanie zewętrzne	;		;		;	brak	;	brak	;	brak	;	brak
+Fagot (g)	;	Diora	;	Radioodbiornik z gramofonem	;		;	AC180/181, tranzystory	;	1971	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fagot DMT 301 21403	;	Diora	;	Radioodbiornik	;		;	AC180/181, tranzystory 12	;	1970	;		;	600x205x205	;	8	;	brak	;	brak	;	brak	;	brak
+Filomena	;	Diora	;	Radioodbiornik	;	bateria-2 x 1,5 siec-2 x 3	;	tranzystory 29	;	1973	;	bateria lub sieć	;		;		;	brak	;	brak	;	brak	;	brak
+Gama	;	Diora	;	Radioodbiornik	;		;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Gawot	;	Diora	;	Radioodbiornik	;		;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Giewont DMP 413	;	Diora	;	Radioodbiornik	;		;	UL1402P,UL1211N, tranzystory 5	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Gong DMP 241	;	Diora	;	Radioodbiornik	;		;	UL1405, tranzystory	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Harfa DML 353	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1972	;		;	640 x 270 x 300	;		;	brak	;	brak	;	brak	;	brak
+Hejnał	;	Diora	;	Radioodbiornik	;		;	TG60x2,tranzystory 9	;	1967-1968	;		;		;		;	brak	;	brak	;	brak	;	brak
+Irys	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82	;	1967-1971	;		;	382x135x190	;	4,6	;	brak	;	brak	;	brak	;	brak
+Irys eksport	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82	;	1968	;		;	382x135x190	;	4,6	;	brak	;	brak	;	brak	;	brak
+Jubilat DMT 401 11601	;	Diora	;	Radioodbiornik	;		;	AC180/181, tranzystory 10	;	1971	;		;	508x158x135	;	4	;	brak	;	brak	;	brak	;	brak
+Jubilat DMT 406 11633	;	Diora	;	Radioodbiornik	;		;	UL1403, tranzystory	;	1973	;		;	508x158x135	;	4	;	brak	;	brak	;	brak	;	brak
+Jubilat stereo DST 401	;	Diora	;	Radioodbiornik	;		;	2xUL1402L, tranzystory 11	;	1974	;		;	515x145x160	;	6	;	brak	;	brak	;	brak	;	brak
+Junior DMP-202	;	Diora	;	Radioodbiornik	;		;	UL1402, 6 tranzystorów	;	1974-78	;		;		;		;	brak	;	brak	;	brak	;	brak
+Junior-stereo	;	Diora	;	Radioodbiornik	;	2 x 15	;		;	1974	;		;		;		;	brak	;	brak	;	brak	;	brak
+Justyna	;	Diora	;	Radioodbiornik przenośny/turystyczny	;		;	tranzystory, IC	;	197x	;	2 x 4,5V lub akumulator 6/12V	;	230x152x68	;	1,7	;	brak	;	brak	;	brak	;	brak
+Kalenica R-301	;	Diora	;	Radioodbiornik	;		;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Kankan	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1966-69	;		;	420x160x150	;		;	brak	;	brak	;	brak	;	brak
+Kankan 2	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1967-68	;		;	420x160x150	;		;	brak	;	brak	;	brak	;	brak
+Kankan 3	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1968	;		;	525x175x160	;	5,7	;	brak	;	brak	;	brak	;	brak
+Klawesyn DML 306	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,SPS6B	;	1971-75	;		;	638x185x185	;		;	brak	;	brak	;	brak	;	brak
+Kleopatra 2 DSH 402	;	Diora	;	Radioodbiornik	;		;		;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+Kleopatra 2A Hi-Fi	;	Diora	;	Radioodbiornik	;		;		;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+Kleopatra hifi TST 102	;	Diora	;	Radioodbiornik	;		;		;	1975	;		;	430x270x120	;		;	brak	;	brak	;	brak	;	brak
+Krokus 10501	;	Diora	;	Radioodbiornik przenośny	;		;	TG55x2, tranzystory 8	;	1965	;		;	225x173x78	;	1,9	;	brak	;	brak	;	brak	;	brak
+Kurant	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1963	;		;	260x180x130	;	3	;	brak	;	brak	;	brak	;	brak
+Kurant Lux DMT 441	;	Diora	;	Radioodbiornik	;		;	tranzystory 11	;	1972	;		;	285x185x70	;	3	;	brak	;	brak	;	brak	;	brak
+Limba 6096	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T + 4 tranz.	;	1961-63	;	bateria 6V, sieć 127 lub 220 V	;	230x320x556	;	8	;	brak	;	brak	;	brak	;	brak
+Lira DMT 453	;	Diora	;	Radioodbiornik z gramofonem	;		;	tranzystory 10	;	1972	;		;	500x375x180	;	6	;	brak	;	brak	;	brak	;	brak
+Ludwik	;	Diora	;	Radioodbiornik	;		;	UL1405, tranzystory	;	1975	;		;	505x135x170	;	4	;	brak	;	brak	;	brak	;	brak
+Lutnia	;	Diora	;	Radioodbiornik	;		;	AC180/181,tranzystory 10	;	1972	;		;		;		;	brak	;	brak	;	brak	;	brak
+Maraton PMP-201	;	Diora	;	Radioodbiornik przenośny	;		;		;	1975	;		;		;		;	brak	;	brak	;	brak	;	brak
+Meluzyna 103	;	Diora	;	Radioodbiornik stereo 	;		;		;	1975	;		;		;		;	brak	;	brak	;	brak	;	brak
+Meluzyna TST-101	;	Diora	;	Radioodbiornik tuner	;		;	tranzystory 43	;	1972	;		;	400x120x270	;	4	;	brak	;	brak	;	brak	;	brak
+Menuet 21201	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM80	;	1964	;	220 V	;	600x384x310	;	14	;	brak	;	brak	;	brak	;	brak
+Menuet 6204	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM80	;	1961-66	;	127 lub 220 V	;	600x384x310	;	14	;	brak	;	brak	;	brak	;	brak
+Menuet UKF 20303	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECL86,EM84,SPS6B	;	1967-70	;		;	600 x 384 x 310	;		;	brak	;	brak	;	brak	;	brak
+Merkury DSH 303	;	Diora	;	Radioodbiornik stereo 	;	2 x 20	;		;	1979	;		;	560×125×280	;		;	brak	;	brak	;	brak	;	brak
+Meteor 6111	;	Diora	;	Radioodbiornik	;		;	UCC85,UCH81, UBF89,UCL82	;	1962-63	;		;	530x294x228	;	8	;	brak	;	brak	;	brak	;	brak
+Meteor II	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECL82, EM841,SPS5A	;	1964-65	;		;	530x294x228	;	8	;	brak	;	brak	;	brak	;	brak
+Mira	;	Diora	;	Radioodbiornik przenośny	;		;		;	1973	;		;	280 x 160 x 70	;		;	brak	;	brak	;	brak	;	brak
+Neptun	;	Diora	;	Radioodbiornik	;		;	AC180/AC181	;	1973	;		;		;		;	brak	;	brak	;	brak	;	brak
+Okaryna DML-352 25504	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECL86	;	1972	;		;	640x300x300	;		;	brak	;	brak	;	brak	;	brak
+P 703 SP	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1977	;		;		;		;	brak	;	brak	;	brak	;	brak
+Piano DML-305 25501	;	Diora	;	Radioodbiornik	;		;	ECC85, EBF89, ECL86, ECH81	;	1972	;		;	580x180x177	;		;	brak	;	brak	;	brak	;	brak
+Pionier Re101	;	Diora	;	Radioodbiornik	;		;	tranzystory, IC	;	1985	;		;	230x80x150	;		;	brak	;	brak	;	brak	;	brak
+Pionier Re105	;	Diora	;	Radioodbiornik	;		;	tranzystory, IC	;	198x	;		;	230x80x150	;		;	brak	;	brak	;	brak	;	brak
+Pionier-stereo DSP 102	;	Diora	;	Radioodbiornik	;	2 x 3	;	UL1402, tranzystory 10	;	1974	;		;	440x100x220	;	5	;	brak	;	brak	;	brak	;	brak
+PMP-101	;	Diora	;	Radioodbiornik przenośny	;		;	UL1497,UL1211N,tranzystory	;	1976 ?	;	4 x R14 lub 220 V	;	280x170x65	;		;	brak	;	brak	;	brak	;	brak
+Promyk-Lux 24401	;	Diora	;	Radioodbiornik	;		;	ECH81,EF89,ECL86,DOG55,SPS6B	;	1968-70	;		;	445x200x190	;		;	brak	;	brak	;	brak	;	brak
+Ramona 22241	;	Diora	;	Radioodbiornik	;		;	ECC85, ECH81, EF89, EF80, EL84, EM84	;	1964	;		;	700 x 313 x 235	;		;	brak	;	brak	;	brak	;	brak
+Ramona 22244	;	Diora	;	Radioodbiornik	;		;	ECC85, ECH81, EF89, EF80, EL84, EM84	;	1965 przed	;	110-127 V	;	700 x 313 x 235	;		;	brak	;	brak	;	brak	;	brak
+Ramona 62118	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EF89, EF80,EL84,EM80/EM34	;	1961	;		;	700 x 312 x 242	;		;	brak	;	brak	;	brak	;	brak
+Ramona 62132	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EF89, EF80,EL84,EM80	;	1961-65	;		;	700 x 313 x 235	;		;	brak	;	brak	;	brak	;	brak
+RE 331	;	Diora	;	Radioodbiornik	;		;		;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Rekord SMT 204	;	Diora	;	Radioodbiornik samochodowy	;	4W przy K ≤ 10% i R = 4Ω 2,5W przy K ≤ 4% i R = 4Ω	;	1 układ scalony, 25 tranzystorow, 4 tr. polowe	;	1977	;	12	;	184 x 55 x 145	;	1,2	;	brak	;	brak	;	brak	;	brak
+Relaks	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,EM84,SPS6B	;	1967	;		;		;		;	brak	;	brak	;	brak	;	brak
+Relax II 20306	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,EM84,SPS6B	;	1969-71	;		;	524x225x224	;	5,3	;	brak	;	brak	;	brak	;	brak
+Romans 62112	;	Diora	;	Radioodbiornik	;		;	ECH21, ECH21, EBL21, AZ1, EM80	;	1963	;		;	545×355×230	;	10	;	brak	;	brak	;	brak	;	brak
+Romans 6214	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM4	;	1961-66	;		;	545x355x230	;		;	brak	;	brak	;	brak	;	brak
+Romans-Tranzystor	;	Diora	;	Radioodbiornik	;		;	2xTG5, TG50, 2xTG60, TG37, TG38, TG39, TG40	;	1965	;	6 x R20	;	540x210x230	;	6	;	brak	;	brak	;	brak	;	brak
+Rondo 6212	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM4	;	1961-65	;		;	560x226x335	;	8,5	;	brak	;	brak	;	brak	;	brak
+Rondo 6212 v.2	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM80	;	1961-65	;		;	560x226x335	;	8,5	;	brak	;	brak	;	brak	;	brak
+Rondo 6213	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM4	;	1961-65	;		;		;		;	brak	;	brak	;	brak	;	brak
+Rondo 6213 v.2	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM80	;	1961-65	;		;	560x300x220	;		;	brak	;	brak	;	brak	;	brak
+Rondo R-806	;	Diora	;	Radioodbiornik samochodowy	;		;		;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+RPS 611	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1989	;		;	180 x 150 x 52	;		;	brak	;	brak	;	brak	;	brak
+RPS 650	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1991	;		;	180 x 150 x 52	;		;	brak	;	brak	;	brak	;	brak
+RPS-654	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1993	;		;		;		;	brak	;	brak	;	brak	;	brak
+Rumba	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EF89, EF80,EL84,EM80	;	1961-67	;		;	580x304x237	;	10	;	brak	;	brak	;	brak	;	brak
+Rumba 21841	;	Diora	;	Radioodbiornik	;		;	ECC85, ECH81, EF89, EF80, EL84, EM80	;	1963	;		;	580×304×237	;		;	brak	;	brak	;	brak	;	brak
+Rumba Lux	;	Diora	;	Radioodbiornik	;	2	;	ECC85,ECH81,EF89, EF80,EL84,EM80	;	1965	;		;	800×230×210	;	14	;	brak	;	brak	;	brak	;	brak
+Rytm	;	Diora	;	Radioodbiornik przenośny	;		;	TG55x2, tranzystory 8	;	1966	;		;	290x165x110	;	1,8	;	brak	;	brak	;	brak	;	brak
+Rytmus	;	Diora	;	Radioodbiornik przenośny	;		;	TG55x2, tranzystory 8	;	1966	;	dwie baterie płaskie	;	290x165x110	;	1,8	;	brak	;	brak	;	brak	;	brak
+Safari	;	Diora	;	Radioodbiornik samochodowy	;	3	;	tranzystory 9, diody 7	;	1972	;	12V	;	177 x 140 x 50	;		;	brak	;	brak	;	brak	;	brak
+Safari 2	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1974-81	;		;		;		;	brak	;	brak	;	brak	;	brak
+Safari 2A	;	Diora	;	Radioodbiornik samochodowy	;		;	2 x BD254, tranzystory	;	1974-81	;	12V	;	180 x 140 x 50	;		;	brak	;	brak	;	brak	;	brak
+Safari 4	;	Diora	;	Radioodbiornik samochodowy	;		;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Safari 5 SMP 502	;	Diora	;	Radioodbiornik samochodowy	;		;	UL1481T, tranzystory 5	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Safari 6 R 801	;	Diora	;	Radioodbiornik samochodowy	;		;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Safari 6 Stereo RS-805	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1988	;		;		;		;	brak	;	brak	;	brak	;	brak
+Samba	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EF89,EF80,EL84,SPS6B	;	1961-62	;		;	580x300x290	;	10	;	brak	;	brak	;	brak	;	brak
+Sarabanda	;	Diora	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL82,SPS6B	;	1966-71	;		;	420x150x160	;	4,9	;	brak	;	brak	;	brak	;	brak
+Sarabanda-II	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL86,SPS6B	;	1967-68	;		;	420x160x150	;		;	brak	;	brak	;	brak	;	brak
+Senior-stereo	;	Diora	;	Radioodbiornik	;	2 x 3	;		;	1974	;		;		;		;	brak	;	brak	;	brak	;	brak
+Skald SMT 204	;	Diora	;	Radioodbiornik samochodowy	;		;	UL1481T, tranzystory	;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+Skald SMT 331	;	Diora	;	Radioodbiornik samochodowy	;		;	9 tranzystorów	;	1974	;	12V	;	180 x 170 x 52	;		;	brak	;	brak	;	brak	;	brak
+SMT 201	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1970	;		;		;		;	brak	;	brak	;	brak	;	brak
+SMT 202	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1970	;		;		;		;	brak	;	brak	;	brak	;	brak
+Sobótka DMT-305 25604	;	Diora	;	Radioodbiornik	;		;	AC180/181,tranzystory 12	;	1972	;		;	565x160x185	;	6	;	brak	;	brak	;	brak	;	brak
+Sonata 62012	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EF89,EL84,EM80	;	1961-69	;		;	550x390x309	;	15	;	brak	;	brak	;	brak	;	brak
+Sonata 62130	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,EF80,EL84,EM84	;	1961-69	;		;	555x387x308	;	14,1	;	brak	;	brak	;	brak	;	brak
+Stertone 400	;	Diora	;	Radioodbiornik	;		;	ECC85, ECH81, EF89, EF80, EL84, EM84	;	1965 ?	;	127V	;	800×230×210	;		;	brak	;	brak	;	brak	;	brak
+Sudety DMT 352	;	Diora	;	Radioodbiornik z gramofonem	;		;	BC211/313,tranzystory 12	;	1973	;		;	550x280x235	;	15	;	brak	;	brak	;	brak	;	brak
+Sudety R 208	;	Diora	;	Radioodbiornik	;	0,75 W przy h = 7% i R = 8 Ω	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ślązak	;	Diora	;	Radioodbiornik	;		;	UL1402P,UL1211N, tranzystory 5	;	1977	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ślązak-Stereo	;	Diora	;	Radioodbiornik	;	2 x 5	;	US 4, tranzystory 11	;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ślęża DMT 312	;	Diora	;	Radioodbiornik	;		;	BC211/313,tranzystory 12	;	1973	;		;	565x185x160	;	6	;	brak	;	brak	;	brak	;	brak
+Śnieżka	;	Diora	;	Radioodbiornik z gramofonem	;		;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Śnieżka 3 (R-310)	;	Diora	;	Radioodbiornik	;		;		;	1990	;		;	380x120x180	;		;	brak	;	brak	;	brak	;	brak
+Śnieżka R-206	;	Diora	;	Radioodbiornik	;		;	2xBF194, 2xBF195, UL1211, UL1482K	;	198x	;		;	380x120x180	;		;	brak	;	brak	;	brak	;	brak
+Śnieżka R-207	;	Diora	;	Radioodbiornik	;		;	2xBF194, 2xBF195, UL1211, UL1482K	;	198x	;		;	380x120x180	;		;	brak	;	brak	;	brak	;	brak
+Śnieżnik DMT-403	;	Diora	;	Radioodbiornik	;		;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Śnieżnik R-502	;	Diora	;	Radioodbiornik	;		;		;	198x	;		;	563 x 196 x 135	;		;	brak	;	brak	;	brak	;	brak
+Śnieżnik R-504	;	Diora	;	Radioodbiornik	;		;	UL1481, UL1211	;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tamburyn DMT 411	;	Diora	;	Radioodbiornik	;		;		;	1973-75	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tango 2	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82	;	1967-68	;		;		;		;	brak	;	brak	;	brak	;	brak
+Taraban 3 R-510	;	Diora	;	Radioodbiornik	;	3,5	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Taraban DMP 502	;	Diora	;	Radioodbiornik	;	3,5	;	Tranzystory x 5, UL1211, UL1481T	;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+Taraban-2 DMP 602	;	Diora	;	Radioodbiornik	;	3,5	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tosca 2 AWS-504	;	Diora	;	Radioodbiornik	;	2 x 20	;		;	199x	;	220V	;	420x90x270	;		;	brak	;	brak	;	brak	;	brak
+Tosca AWS 303	;	Diora	;	Radioodbiornik	;	2 x 20	;		;	198x	;		;	440 x 90 x 260	;		;	brak	;	brak	;	brak	;	brak
+Tosca AWS-306	;	Diora	;	Radioodbiornik stereo 	;		;		;	198x	;		;	440 x 90 x 260	;		;	brak	;	brak	;	brak	;	brak
+Tramp	;	Diora	;	Radioodbiornik samochodowy	;		;	US, tranzystory 10.	;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+Traper	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+Trawiata stereo DST-302	;	Diora	;	Radioodbiornik	;	2 x 5	;	tranzystory 27	;	1974	;		;	565x165x190	;	8	;	brak	;	brak	;	brak	;	brak
+Trubadur 20307	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECL86,EM84,SPS6B	;	1970	;		;	700x320x290	;	15	;	brak	;	brak	;	brak	;	brak
+TSH 105	;	Diora	;	Radioodbiornik tuner	;		;		;	1977-80	;		;	440 x 315 x 142	;	5	;	brak	;	brak	;	brak	;	brak
+TSH 110	;	Diora	;	Radioodbiornik tuner	;		;		;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+TSH 111	;	Diora	;	Radioodbiornik stereo 	;		;	1 układ scalony, 28 tranzystorów	;	1980	;	220V	;	430 x 290 x 125	;		;	brak	;	brak	;	brak	;	brak
+TSH 113	;	Diora	;	Radioodbiornik stereo 	;		;		;	1980	;		;		;		;	brak	;	brak	;	brak	;	brak
+TST-103 Stereo Hi-Fi	;	Diora	;	Radioodbiornik tuner	;		;		;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+Weekend RP 631	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1987	;		;		;		;	brak	;	brak	;	brak	;	brak
+Wiraż 5 RPS 604	;	Diora	;	Radioodbiornik samochodowy	;	2 x 4 przy h ≤ 7% i R = 2 x 4Ω	;	A290D, UL 1200N, UL 1481T, BF 194, BF 195, BC148B,...	;	198x	;	12V	;		;	1,4	;	brak	;	brak	;	brak	;	brak
+Wiraż 7 RPS 606	;	Diora	;	Radioodbiornik samochodowy	;		;		;	1984	;		;		;		;	brak	;	brak	;	brak	;	brak
+Zodiak DSS-401	;	Diora	;	Radioodbiornik stereo 	;	2 x 15	;		;	1979	;		;	530 x 130 x 305	;		;	brak	;	brak	;	brak	;	brak
+Zodiak DSS-402	;	Diora	;	Radioodbiornik stereo 	;	2 x 15	;		;	1980	;		;	530 x 130 x 305	;	11	;	brak	;	brak	;	brak	;	brak
+Ada MOT-755	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory , UL1490	;	1979 przed	;	9	;	130x85x35	;	0,25	;	brak	;	brak	;	brak	;	brak
+Alicja R-202	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1983 przed	;		;		;		;	brak	;	brak	;	brak	;	brak
+Alicja R-603	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1983	;	220V lub 7,5 V (5 baterii R6)	;	200 x 128 x 46	;	0,88	;	brak	;	brak	;	brak	;	brak
+Alicja R-701	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1979	;	220V lub 6 baterii R20	;	300x170x75	;		;	brak	;	brak	;	brak	;	brak
+ALTUS - T60	;	Eltra	;	Radioodbiornik stereo 	;		;		;	198X	;		;	300 X 60 X 200	;		;	brak	;	brak	;	brak	;	brak
+Ania MOT 711	;	Eltra	;	Radioodbiornik przenośny	;	0,45	;	AC180/181,tranzystory 6	;	1972-	;	9 V (6 baterii R14)	;	260x190x80	;	1,6	;	brak	;	brak	;	brak	;	brak
+Ania R-612	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	198x	;	220V lub 7.5 (5 baterii R6)	;		;		;	brak	;	brak	;	brak	;	brak
+Ania R-613	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ania R-6300	;	Eltra	;	Radioodbiornik przenośny	;		;		;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ara	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1965	;	2 baterii R6	;		;		;	brak	;	brak	;	brak	;	brak
+Asia MOT 757	;	Eltra	;	Radioodbiornik przenośny	;		;	UL1490,UL1211,tranz.	;	1979	;	6 baterrii R6	;	150x90x40	;	0,3	;	brak	;	brak	;	brak	;	brak
+Dana MOT 728	;	Eltra	;	Radioodbiornik przenośny	;		;	TAA611B, tranzystory 5	;	1973	;		;	195x105x45	;		;	brak	;	brak	;	brak	;	brak
+Dominika MOT 663-1	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1969	;		;	180x110x45	;		;	brak	;	brak	;	brak	;	brak
+Dominika MOT 663-2	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1970	;		;	180x110x45	;		;	brak	;	brak	;	brak	;	brak
+Dominika MOT 663-2a	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1970	;		;	180x110x45	;		;	brak	;	brak	;	brak	;	brak
+Dominika MOT 663-3	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1971	;		;	180x110x45	;		;	brak	;	brak	;	brak	;	brak
+Dominika-II	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory	;	1971	;		;		;		;	brak	;	brak	;	brak	;	brak
+Donald	;	Eltra	;	Radioodbiornik przenośny	;		;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Donata R 611	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1986	;		;	288x176x76	;		;	brak	;	brak	;	brak	;	brak
+Dorota IC	;	Eltra	;	Radioodbiornik przenośny	;		;	UL1497, UL1211, tranzystor 1	;	197x	;	220V lub 6 baterii R14	;	260 x 180 x 67	;		;	brak	;	brak	;	brak	;	brak
+Dorota MOT 744	;	Eltra	;	Radioodbiornik przenośny	;		;	UL1492N, tranzystory 3	;	1975	;	220V lub 6 baterii R14	;	260 x 180 x 67	;		;	brak	;	brak	;	brak	;	brak
+Edyta	;	Eltra	;	Radioodbiornik przenośny	;		;	10 tranzystory	;	1973	;	9V zasilacz lub bateria	;	290 x 180 x 95	;	1,85	;	brak	;	brak	;	brak	;	brak
+Ela MOT 729	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1976	;	jedna bateria 9V	;	110x68x28	;		;	brak	;	brak	;	brak	;	brak
+Eltra 50 MOT 729	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory	;	1973	;	jedna bateria 9V	;	105 x 65 x 32	;		;	brak	;	brak	;	brak	;	brak
+Halina R-802	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1988	;		;		;		;	brak	;	brak	;	brak	;	brak
+Irena	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1979	;	1,5V (6 baterii R14) lub zasilacz wewnętrzny	;	195x240x65	;	1,4	;	brak	;	brak	;	brak	;	brak
+Iwona	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory	;	1971	;		;	230x152x68	;		;	brak	;	brak	;	brak	;	brak
+Iza MOT-745	;	Eltra	;	Radioodbiornik przenośny	;		;	3xBF214, UL1490	;	1974	;	9V	;	120x85x35	;	0,17	;	brak	;	brak	;	brak	;	brak
+Izabella MOT 664	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 9	;	1969	;		;	285x175x75	;	1,5	;	brak	;	brak	;	brak	;	brak
+Izabella-II	;	Eltra	;	Radioodbiornik przenośny	;	0,45	;	TG50x2, tranzystory 9	;	1971	;		;	285x175x75	;	1,5	;	brak	;	brak	;	brak	;	brak
+Jacek	;	Eltra	;	Radioodbiornik	;		;		;	1968	;	9V (2 baterie 3R12)	;		;		;	brak	;	brak	;	brak	;	brak
+Jowita 2	;	Eltra	;	Radioodbiornik przenośny	;		;		;	197x	;	2x4,5V (6 baterii R20)	;	320 X 190 X 85	;		;	brak	;	brak	;	brak	;	brak
+Jowita 2 IC	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, US	;	1979 przed	;		;	320 X 190 X 85	;		;	brak	;	brak	;	brak	;	brak
+Jowita 3 IC	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1985	;		;	320 X 190 X 85	;		;	brak	;	brak	;	brak	;	brak
+Jowita MOT 701	;	Eltra	;	Radioodbiornik przenośny	;		;	AC180/181,tranzystory 12	;	1973	;	9V (6xR20 lub 6xR14 lub 2x3R12) lub zasilacz zewnętrzny	;	320 X 190 X 85	;		;	brak	;	brak	;	brak	;	brak
+Julia stereo	;	Eltra	;	Radioodbiornik przenośny	;	1,5 przy baterii, 3 przy zasilaniu sieciowym, 2 x 5 przy zasilaniu sieciowym i kloumnach 4Ω	;	tranz.28, UL1211, UL1611, 2xUL1481P	;	1979	;	220V lub 8 baterii R20	;	415x250x115	;		;	brak	;	brak	;	brak	;	brak
+Kama MOT 662 (a)	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1969	;	4 x 1,5V	;	160x92x38	;		;	brak	;	brak	;	brak	;	brak
+Kama MOT 662 (b)	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1969	;	4 x 1,5V	;	160x92x38	;		;	brak	;	brak	;	brak	;	brak
+Kamila MOT 631-2	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 6	;	1969	;	4 x 1,5V	;	160x90x40	;		;	brak	;	brak	;	brak	;	brak
+Koliber-2	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 6	;	1963	;		;	160x90x38	;	0,5	;	brak	;	brak	;	brak	;	brak
+Koliber-3 (a)	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1964	;		;	160x90x38	;		;	brak	;	brak	;	brak	;	brak
+Koliber-3 (c)	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Koliber-3 MOT 633	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 7	;	1965	;		;	160x90x38,	;	0,5	;	brak	;	brak	;	brak	;	brak
+Laura 2 MOT 672	;	Eltra	;	Radioodbiornik przenośny	;		;	AC187/188, tranzystory	;	1973	;		;	280x165x70	;		;	brak	;	brak	;	brak	;	brak
+Laura MOT 672	;	Eltra	;	Radioodbiornik przenośny	;	0,45	;	AD365x2, tranzystory 10	;	1971	;		;		;		;	brak	;	brak	;	brak	;	brak
+Lena	;	Eltra	;	Radioodbiornik przenośny	;		;	BF194, 2xBF195, BC211, UL1211, UL1497R lub UL1492N	;	1983 przed	;	6 x 1,5V lub wbudowany zasilacz sieciowy 220V	;	255x135x60	;	1,25	;	brak	;	brak	;	brak	;	brak
+Lena 2	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1986	;	6 x 1,5V lub wbudowany zasilacz sieciowy 220V	;	255x135x60	;	1,25	;	brak	;	brak	;	brak	;	brak
+Lena 2 (Soundmaster)	;	Eltra	;	Radioodbiornik przenośny	;		;		;	198x	;		;	255x135x60	;	1,25	;	brak	;	brak	;	brak	;	brak
+Lena 2 K	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	198x	;	6 x 1,5V lub wbudowany zasilacz sieciowy 220V	;	255x135x60	;	1,25	;	brak	;	brak	;	brak	;	brak
+Lena 3 R-6342	;	Eltra	;	Radioodbiornik przenośny	;		;		;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Lidia 2 MOT 721	;	Eltra	;	Radioodbiornik przenośny	;		;	TAA611B,tranzystory 6	;	1974	;		;		;		;	brak	;	brak	;	brak	;	brak
+Lidia MOT 721	;	Eltra	;	Radioodbiornik przenośny	;	0,45	;	Taa611B, tranzystory	;	1973	;	6 baterii R14	;	240x140x60	;	1,5	;	brak	;	brak	;	brak	;	brak
+Liza R 203	;	Eltra	;	Radioodbiornik przenośny	;		;	IC	;	1987	;	4 baterii R6 lub zasilacz 6V	;	180x100x40	;		;	brak	;	brak	;	brak	;	brak
+Lucyna MOT 725	;	Eltra	;	Radioodbiornik przenośny	;		;	AC180/181, tranzystory 7	;	1973	;	2 płaskie baterie	;	220x140x60	;	1,2	;	brak	;	brak	;	brak	;	brak
+Luiza	;	Eltra	;	Radioodbiornik przenośny	;		;	UL1481P, tranzystory	;	1979 przed	;	9V (6 baterii R20) lub 220V	;		;		;	brak	;	brak	;	brak	;	brak
+Luiza-2	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1979	;		;		;		;	brak	;	brak	;	brak	;	brak
+Magda MOT 712	;	Eltra	;	Radioodbiornik przenośny	;		;	AC180/181, tranzystory	;	1973	;	6V (4 x 1,5V)	;	182x140x46	;		;	brak	;	brak	;	brak	;	brak
+Major MOT 759	;	Eltra	;	Radioodbiornik przenośny	;		;	US, tranzystory	;	1976	;	7,5 (5 baterii R14)	;		;		;	brak	;	brak	;	brak	;	brak
+Maria R 801	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1983 przed	;		;		;		;	brak	;	brak	;	brak	;	brak
+Mariola	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory	;	1971	;		;	230x155x62	;		;	brak	;	brak	;	brak	;	brak
+Minor MOT 631-2	;	Eltra	;	Radioodbiornik przenośny	;		;	TG50x2, tranzystory 6	;	1965	;	4 x 1,5V	;	160x90x40	;	0,465	;	brak	;	brak	;	brak	;	brak
+Monika MOT 722	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1973	;	6V (4 baterii R6)	;		;		;	brak	;	brak	;	brak	;	brak
+Nina	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1979 przed	;		;		;		;	brak	;	brak	;	brak	;	brak
+Paulina R 802	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, US	;	1983 przed	;	6 baterii R20 lub wbudowany zasilacz sieciowy	;	300x170x78	;	2	;	brak	;	brak	;	brak	;	brak
+R 8040 - ( R 8010 )	;	Eltra	;	Radioodbiornik amplituner	;	2 x 12	;	tranzystory, US	;	198x	;	220V	;	300 x 57 x 200	;	3,5	;	brak	;	brak	;	brak	;	brak
+R-1002	;	Eltra	;	Radioodbiornik	;	0,25	;	CXA-1019S	;	1994	;	6V (4 baterii AA) lub zasilacz zewnętrzny	;	165x102x44	;	0,47	;	brak	;	brak	;	brak	;	brak
+R-6302	;	Eltra	;	Radioodbiornik	;		;	IC CXA1111P (SONY), TBA820M	;	1990	;		;		;		;	brak	;	brak	;	brak	;	brak
+Sabina R-610	;	Eltra	;	Radioodbiornik	;		;		;	1983	;		;	288x176x76	;		;	brak	;	brak	;	brak	;	brak
+Sylwia 2 MOT 633-2	;	Eltra	;	Radioodbiornik	;		;	TG50x2, tranzystory 6	;	1967	;		;	159x89x42	;		;	brak	;	brak	;	brak	;	brak
+Sylwia MOT 633	;	Eltra	;	Radioodbiornik	;		;	tranzystory 6	;	1966	;	4 x 1,5V	;	160x90x38	;	0,5	;	brak	;	brak	;	brak	;	brak
+T 3015	;	Eltra	;	Radioodbiornik tuner	;		;		;	1985	;		;		;		;	brak	;	brak	;	brak	;	brak
+T 8010	;	Eltra	;	Radioodbiornik tuner	;		;	tranzystory, US	;	198x	;		;	300 × 57 × 200	;	2,5	;	brak	;	brak	;	brak	;	brak
+T 8040	;	Eltra	;	Radioodbiornik tuner	;		;		;	198x	;		;	300 x 200 x 60	;	3	;	brak	;	brak	;	brak	;	brak
+T 9010	;	Eltra	;	Radioodbiornik tuner	;		;		;	198x	;		;	440 x 57 x 230	;	3,5	;	brak	;	brak	;	brak	;	brak
+T 9015	;	Eltra	;	Radioodbiornik tuner	;		;		;	1985	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tola 2 R-6322	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1991	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tola R 6320	;	Eltra	;	Radioodbiornik przenośny	;		;		;	199X	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tola R-615	;	Eltra	;	Radioodbiornik przenośny	;		;		;	1987	;		;		;		;	brak	;	brak	;	brak	;	brak
+TR 700 Mondial	;	Eltra	;	Radioodbiornik przenośny	;		;		;	199?	;		;		;		;	brak	;	brak	;	brak	;	brak
+TRAMP WE 100	;	Eltra	;	Radioodbiornik przenośny	;		;	tranz.28, UL1211, UL1611, UL1481P	;	1980-81	;		;		;		;	brak	;	brak	;	brak	;	brak
+TRAMP WE 100 stereo	;	Eltra	;	Radioodbiornik przenośny	;		;	tranz.28, UL1211, UL1611, 2xUL1481P	;	1980-81	;		;	415x250x115	;		;	brak	;	brak	;	brak	;	brak
+Upominek	;	Eltra	;	Radioodbiornik przenośny	;		;	2 tranzystory + ukł. scalony	;	1974	;		;		;		;	brak	;	brak	;	brak	;	brak
+Wanda	;	Eltra	;	Radioodbiornik przenośny	;		;	TBA790KSC, tranzystory 10+1	;	1974	;		;		;		;	brak	;	brak	;	brak	;	brak
+Wanda IC	;	Eltra	;	Radioodbiornik przenośny	;		;		;	197X	;		;	320 x 190 x 85	;		;	brak	;	brak	;	brak	;	brak
+Zosia R-614	;	Eltra	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	198x	;		;	210x128x53	;		;	brak	;	brak	;	brak	;	brak
+Migo	;	Omig	;	Radioodbiornik przenośny	;		;	TG5x2, tranzystory 6	;	1962	;	9V	;	68x103x33	;	0,23	;	brak	;	brak	;	brak	;	brak
+Tramp	;	Omig	;	Radioodbiornik przenośny	;		;	TG5x2, tranzystory 6	;	1963	;	9V	;	68x103x33	;	0,235	;	brak	;	brak	;	brak	;	brak
+Tramp 2	;	Omig	;	Radioodbiornik przenośny	;		;	tranzystory 6	;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Radmor 5100	;	Radmor	;	Radioodbiornik	;	przód 2 x 25W i tył 2 x 15W	;	tranzystory + ukł. scalone	;	1977	;		;	524x330x137	;	10,5	;	brak	;	brak	;	brak	;	brak
+Radmor 5102	;	Radmor	;	Radioodbiornik	;		;	tranzystory + ukł. scalone	;	1979	;		;	524x330x137	;	10,5	;	brak	;	brak	;	brak	;	brak
+Radmor 5102-TE	;	Radmor	;	Radioodbiornik	;		;	tranzystory + ukł. scalone	;	1981	;		;		;		;	brak	;	brak	;	brak	;	brak
+Radmor 5122	;	Radmor	;	Radioodbiornik tuner	;		;	tranzystory + ukł. scalone	;	1980	;		;		;		;	brak	;	brak	;	brak	;	brak
+Radmor 5411	;	Radmor	;	Radioodbiornik	;		;	tranzystory + ukł. scalone	;	1985-1987	;		;		;		;	brak	;	brak	;	brak	;	brak
+Radmor 5412	;	Radmor	;	Radioodbiornik	;		;	tranzystory	;	1985-1990	;		;		;		;	brak	;	brak	;	brak	;	brak
+Radmor 5422	;	Radmor	;	Radioodbiornik tuner	;		;	tranzystory + ukł. scalone	;	198x	;		;	505 x 330 x 65 mm	;		;	brak	;	brak	;	brak	;	brak
+DKT-102	;	Unitra	;	Radioodbiornik stereo 	;		;	4 IC, 71 tranz., 21 diod w tym 4 pojemnościowe	;	1974	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ada MOT-755	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	tranzystory, UL1490	;	1984	;	9V	;	130 x 85 x 35	;		;	brak	;	brak	;	brak	;	brak
+Aneta R 605	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	UL1482K, UL1211N, tranzystory 3	;	1983	;	6 baterii R14 lub wbudowany zasilacz sieciowy	;	250x145x68	;		;	brak	;	brak	;	brak	;	brak
+Dana DS 506	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1985	;		;	195x105x45	;		;	brak	;	brak	;	brak	;	brak
+Dana MOT 728-2	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1982	;		;	195x105x45	;		;	brak	;	brak	;	brak	;	brak
+Dorota IC MOT 744-02	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	UL1497, UL1211, tranzystor 1	;	1985	;	6 baterii R14 lub wbudowany zasilacz sieciowy	;	260 x 180 x 67	;		;	brak	;	brak	;	brak	;	brak
+Monika MOT 722-2	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	tranzystory, IC	;	1979 przed	;	6V (4 baterii AA) lub zasilacz zewnętrzny	;		;		;	brak	;	brak	;	brak	;	brak
+R-124	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	UL1482K,TDA1220B,tranzystory	;	1986	;	3 baterii AA	;	75x138x30	;	0,23	;	brak	;	brak	;	brak	;	brak
+RE 125	;	UNITRA Rz	;	Radioodbiornik	;		;	tranzystory, IC	;	198x	;	odbiornik-4 baterii AA lub zasilacz zewnętrzny, zegar-1 baterii AA	;	174x85x50	;	0,44	;	brak	;	brak	;	brak	;	brak
+Roksana R601	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	UL1497, UL1211N, tranzystory 9	;	1985	;	6 baterii AA lub 220V	;	235x147x44	;		;	brak	;	brak	;	brak	;	brak
+RS-101	;	UNITRA Rz	;	Radioodbiornik przenośny	;		;	UL1482K x 2, TK10600, tranzystory 3	;	1986	;	4,5 (3 bateriii R6) lub zasilacz: 4,5-9V	;	120 x 70 x 25	;		;	brak	;	brak	;	brak	;	brak
+RS-130	;	UNITRA Rz	;	Radioodbiornik przenośny stereo	;		;	UL1219, TDA7230, tranzystory 3	;	1989	;	3 baterii AA lub zasilac zewnętrzny	;	120x70x25 mm	;		;	brak	;	brak	;	brak	;	brak
+Narew	;	WSI Odnowa	;	Radioodbiornik	;		;	tranzystory + ukł. scalone	;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Narew 2	;	WSI Odnowa	;	Radioodbiornik	;		;	tranzystory + ukł. scalone	;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Admirał	;	ZRK	;	Radioodbiornik samochodowy	;		;	TG70x2,tranzystory 8	;	1967	;	6 lub 12V	;		;		;	brak	;	brak	;	brak	;	brak
+Alfa	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECL82,SPS5A	;	1963	;		;	400x150x155	;	4	;	brak	;	brak	;	brak	;	brak
+Arkadia	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECL82,EM80	;	1964	;		;	500x298x205	;	8,8	;	brak	;	brak	;	brak	;	brak
+Arkona	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECL82,EM80,SPS6B	;	1964	;		;	645x706x347	;	15	;	brak	;	brak	;	brak	;	brak
+Arkona (eksport Anglia)	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL82, EM80	;	1964	;		;	645×240×240	;		;	brak	;	brak	;	brak	;	brak
+Arkona (eksport Kanada)	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL82, EM80, SPS6B	;	1965	;	110-120V	;	645×240×240	;		;	brak	;	brak	;	brak	;	brak
+Arkona 2	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECL82,EM80	;	1964	;		;	500x298x205	;	8,8	;	brak	;	brak	;	brak	;	brak
+AT 9010	;	ZRK	;	Radioodbiornik stereo 	;		;	BC238,BC238C,4xBC239,BF195,2xBF314, BC237,BF245	;	198x	;		;	440 x 112 x 230	;		;	brak	;	brak	;	brak	;	brak
+AT 9100	;	ZRK	;	Radioodbiornik stereo 	;		;	BC238,BC238C,4xBC239,BF195,2xBF314, BC237,BF245	;	198x	;		;	440 x 112 x 230	;		;	brak	;	brak	;	brak	;	brak
+AT 9115	;	ZRK	;	Radioodbiornik amplituner	;		;	BC238,BC238C,4xBC239,BF195,2xBF314, BC237,BF245 	;	1988	;		;	440 x 112 x 230	;		;	brak	;	brak	;	brak	;	brak
+Atut	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECL82,SPS5A	;	1963	;		;	420x155x150	;	3	;	brak	;	brak	;	brak	;	brak
+Atut 2	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1964	;		;	420x155x150	;	3	;	brak	;	brak	;	brak	;	brak
+Atut 2 (eksport)	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECL82, EM84, SPS5A	;	1963-64	;		;	420x155x150	;	3	;	brak	;	brak	;	brak	;	brak
+Barbara	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1961	;		;	260x180x130	;	3	;	brak	;	brak	;	brak	;	brak
+Barbara bateryjny	;	ZRK	;	Radioodbiornik	;		;	3S4T, 1S5T, 1T4T, 1R5T	;	196x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Barbara II	;	ZRK	;	Radioodbiornik	;		;	3S4T,1S5T,1T4T,1R5T,DM70	;	1962	;		;	260x180x130	;		;	brak	;	brak	;	brak	;	brak
+Beta	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86, EM84,sel2p	;	1966	;		;		;		;	brak	;	brak	;	brak	;	brak
+Capella 3231	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EF89, ECC83,EL84,EM80	;	1966	;		;		;		;	brak	;	brak	;	brak	;	brak
+Chopin	;	ZRK	;	Radioodbiornik	;		;		;	1966	;		;		;		;	brak	;	brak	;	brak	;	brak
+Clivia	;	ZRK	;	Radioodbiornik przenośny	;	0,25W	;	TG50x2,tranzystory 8	;	1964	;	9V (6 baterii R20)	;	335x120x142	;	2	;	brak	;	brak	;	brak	;	brak
+Czar	;	ZRK	;	Radioodbiornik przenośny	;	0,22W	;	OC72x2, tranzystory x7	;	1961	;	7,5 (5 bateriii R10)	;	200 x 140 x 60	;	1,2	;	brak	;	brak	;	brak	;	brak
+Delta	;	ZRK	;	Radioodbiornik	;		;		;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Domino	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,EF80,EABC80, ECL86,EM84,SPS6B	;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Duet 3231	;	ZRK	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECL86,EM84	;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fidelio	;	ZRK	;	Radioodbiornik	;		;		;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Figaro - Special	;	ZRK	;	Radioodbiornik	;		;	ECH81, EBF89, ECL82, DM70	;	1965?	;	220 lub 240V	;	290x140x190	;		;	brak	;	brak	;	brak	;	brak
+Figaro 3	;	ZRK	;	Radioodbiornik	;		;	ECH8, EBF89, ECL82, DM70, SPS5A	;	1963	;		;	325×185×150	;	3,8	;	brak	;	brak	;	brak	;	brak
+Figaro I	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,DM70,SPS5A	;	196x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Figaro I-1/3A	;	ZRK	;	Radioodbiornik	;		;	ECH81, EBF89, ECL82, DM70, SPS5A	;	1962	;	220 lub 240V	;	260x180x130	;		;	brak	;	brak	;	brak	;	brak
+Figaro II-2/4A	;	ZRK	;	Radioodbiornik	;		;	3S4T,1S5T,1T4T,1R5T,DM70	;	196x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Goplana (eksport)	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL82, EM80	;	1966 ?	;	110 lub 120 lub 220 lub 240V	;	500 x 305 x 205	;		;	brak	;	brak	;	brak	;	brak
+Goplana 2	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL82, EM80, SPS6B	;	1966 ?	;		;	500 x 305 x 205	;		;	brak	;	brak	;	brak	;	brak
+Goplana 3211	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,EM80,SPS6B	;	1966	;		;	500x305x205	;	10	;	brak	;	brak	;	brak	;	brak
+Goplana LUX	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL86,EM84	;	1966	;		;	660 x 265 x 170	;		;	brak	;	brak	;	brak	;	brak
+Guliwer	;	ZRK	;	Radioodbiornik	;		;	TG50x2, tranzystory 8	;	1965	;		;	220x130x58	;	1,5	;	brak	;	brak	;	brak	;	brak
+Guliwer II	;	ZRK	;	Radioodbiornik przenośny	;	1,5W	;	TG50x2, tranzystory 8	;	1967	;	2 płaskie baterie	;	220x130x58	;	1,5	;	brak	;	brak	;	brak	;	brak
+Irys	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS6B	;	1964-1967	;		;	382x135x190	;	4,6	;	brak	;	brak	;	brak	;	brak
+Jazz	;	ZRK	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EBF89,ECC83,EL84,SPS6B	;	1965	;		;	1220x770x335	;	25	;	brak	;	brak	;	brak	;	brak
+K 101	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL86, EM84	;	1966 ?	;		;	660 × 265 × 170	;		;	brak	;	brak	;	brak	;	brak
+K100	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL86, EM84	;	1966	;	240V	;	445 x 200 x 150	;		;	brak	;	brak	;	brak	;	brak
+Karioka	;	ZRK	;	Radioodbiornik	;		;	ECC85,EF89,ECH81,EBF89, ECC85,EL84,EM4	;	1961	;		;		;		;	brak	;	brak	;	brak	;	brak
+Karioka 3201	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECC85,EL84,EM80	;	1964	;		;		;		;	brak	;	brak	;	brak	;	brak
+Mini	;	ZRK	;	Radioodbiornik samochodowy	;	2W	;	AD143, tranzystory 6	;	1969	;	6 lub 12V	;	180x110x50	;	1,2	;	brak	;	brak	;	brak	;	brak
+Mini 2	;	ZRK	;	Radioodbiornik samochodowy	;	2W	;		;	197x	;	12,8 lub 6,4V	;	180 x 110 x 50	;		;	brak	;	brak	;	brak	;	brak
+R 101	;	ZRK	;	Radioodbiornik przenośny	;		;		;	199X	;		;		;		;	brak	;	brak	;	brak	;	brak
+Rajd	;	ZRK	;	Radioodbiornik samochodowy	;		;	TG70x2, tranzystory 11	;	1969	;		;	184x145x55	;	2,3	;	brak	;	brak	;	brak	;	brak
+Rapsodia (eksport)	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EF89, EBF89, EL84, EM4	;	1961 ?	;		;	680 × 400 × 280	;	17	;	brak	;	brak	;	brak	;	brak
+Rapsodia 61	;	ZRK	;	Radioodbiornik	;		;	ECH81,EF89,EBF89,EL84,EM4	;	1961	;		;		;		;	brak	;	brak	;	brak	;	brak
+Recital	;	ZRK	;	Radioodbiornik	;		;		;	1961	;		;		;		;	brak	;	brak	;	brak	;	brak
+Rozyna 2	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,EM80	;	1962-63	;		;		;		;	brak	;	brak	;	brak	;	brak
+Rozyna bakel.	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1962	;		;		;		;	brak	;	brak	;	brak	;	brak
+Rozyna drew.	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1962	;		;	295x190x150	;	3	;	brak	;	brak	;	brak	;	brak
+Rozyna N	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1962	;		;	295x190x150	;	3	;	brak	;	brak	;	brak	;	brak
+RP 701	;	ZRK	;	Radioodbiornik	;		;		;	1975	;		;	180 x 150 x 52	;		;	brak	;	brak	;	brak	;	brak
+Stertone 100	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL82, EM84	;	1965	;	110 lub 120V	;	445 x 200 x 150	;		;	brak	;	brak	;	brak	;	brak
+Stertone 200	;	ZRK	;	Radioodbiornik	;		;	ECC85, ECH81, EBF89, ECL86, EM84	;	1966 ?	;	110V	;	660 × 265 × 170	;		;	brak	;	brak	;	brak	;	brak
+Światowid 3201	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89,ECL82,EM80,SPS6B	;	1964-66	;		;	500x298x205	;	8,8	;	brak	;	brak	;	brak	;	brak
+T 7010	;	ZRK	;	Radioodbiornik tuner	;		;	BF314, BF194, BF195, BF240, BF241, BC238, BC239, U...	;	1986	;		;	440x260x86	;		;	brak	;	brak	;	brak	;	brak
+Tango	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82	;	1964	;		;	450x170x140	;		;	brak	;	brak	;	brak	;	brak
+Turandot	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECC83,EL84,EM80,SPS6B	;	1965 ?	;		;	410x308x192	;	8,5	;	brak	;	brak	;	brak	;	brak
+Twist	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,EM80	;	1962	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tytus	;	ZRK	;	Radioodbiornik	;		;		;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Violetta bakelit	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,DM80,SPS5A	;	1962	;		;	325x183x140	;		;	brak	;	brak	;	brak	;	brak
+Violetta drewno	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,DM80,SPS5A	;	1962	;		;	240x208x145	;		;	brak	;	brak	;	brak	;	brak
+Wirtuoz 3231	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECC83,EL84,EM84	;	1966	;		;	740x290x210	;		;	brak	;	brak	;	brak	;	brak
+Amor Stereo DSP 102	;	Diora	;	Radioodbiornik stereo 	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+DT 4140	;	Diora	;	Radioodbiornik tuner	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Gama stero	;	Diora	;	Radioodbiornik	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Skald 2 RP 630	;	Diora	;	Radioodbiornik samochodowy	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Traper 2	;	Diora	;	Radioodbiornik samochodowy	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Ludowy	;	Diora	;	Radioodbiornik	;		;		;	1946	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ludowy DKE38	;	Diora	;	Radioodbiornik	;		;	VCL11, VY2	;	1946	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ludowy VE-301-B1	;	Diora	;	Radioodbiornik	;		;	RE034, RE034, RES174	;	1946	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ludowy VE-301-B2	;	Diora	;	Radioodbiornik	;		;	KC1, KC1, KL1	;	1946	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ludowy VE-301-G	;	Diora	;	Radioodbiornik	;		;	REN1821, RENS1823d	;	1946	;		;		;		;	brak	;	brak	;	brak	;	brak
+Ludowy VE-301-Wn	;	Diora	;	Radioodbiornik	;		;	AF7, RES164, RGN354	;	1946	;		;		;		;	brak	;	brak	;	brak	;	brak
+Srebrny Ton (Limuzyna)	;	Diora	;	Radioodbiornik	;		;	2x RV12P2000, AZ11, LV1	;	1946-1947	;		;		;		;	brak	;	brak	;	brak	;	brak
+Aga RSZ-47 (1743)	;	Diora	;	Radioodbiornik	;		;	7S7,7H7,7B6,7C5,5Y3GT/G	;	1947-50	;		;	482x340x270	;		;	brak	;	brak	;	brak	;	brak
+Aga 1731 (1733)	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1948	;		;	482x340x270	;		;	brak	;	brak	;	brak	;	brak
+Aga RSZ-50	;	Diora	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1948	;		;	482x340x270	;		;	brak	;	brak	;	brak	;	brak
+Aga RSZ-F	;	Diora	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1948	;		;	482x340x270	;		;	brak	;	brak	;	brak	;	brak
+Aga RSZ-F-3W	;	Diora	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1948	;		;	48x34x24	;		;	brak	;	brak	;	brak	;	brak
+Aga RSZ-F-8W	;	Diora	;	Radioodbiornik	;	8	;	3xECH21,2xEBL21,AZ4,EM4	;	1948	;		;	482x340x270	;		;	brak	;	brak	;	brak	;	brak
+Pionier (48)	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1948	;		;	350x225x170	;		;	brak	;	brak	;	brak	;	brak
+Pionier (49a)	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1949	;		;	350x225x170	;		;	brak	;	brak	;	brak	;	brak
+Pionier (49b)	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1949	;		;	350x225x170	;		;	brak	;	brak	;	brak	;	brak
+Pionier U II	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1949	;		;		;		;	brak	;	brak	;	brak	;	brak
+Pionier B 6062	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1950-58	;		;	350x225x170	;		;	brak	;	brak	;	brak	;	brak
+Pionier U2	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1950-58	;		;	350x225x170	;		;	brak	;	brak	;	brak	;	brak
+Pionier U2 (kHz)	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1950-58	;		;	350x225x170	;		;	brak	;	brak	;	brak	;	brak
+Pionier U	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1950-59	;		;		;		;	brak	;	brak	;	brak	;	brak
+Mazur (52a)	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1952	;		;	385x255x18	;		;	brak	;	brak	;	brak	;	brak
+Mazur (52b)	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1952	;		;		;		;	brak	;	brak	;	brak	;	brak
+Mazur	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1952-56	;		;	390x270x185	;		;	brak	;	brak	;	brak	;	brak
+Pionier U3	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1952-56	;		;	385x265x200	;		;	brak	;	brak	;	brak	;	brak
+Mazur-Lux	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1955-57	;		;	555x317x210	;		;	brak	;	brak	;	brak	;	brak
+Mazur I 6261	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1956-58	;		;		;		;	brak	;	brak	;	brak	;	brak
+Mazur II 6262	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM4	;	1956-58	;		;	499x337x195	;	10	;	brak	;	brak	;	brak	;	brak
+Polonez	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1956-58	;		;	510x350x305	;		;	brak	;	brak	;	brak	;	brak
+Pionier I 6161	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1956-59	;		;	375x310x205	;		;	brak	;	brak	;	brak	;	brak
+Śląsk	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECH81,2xECH21,2xEF22, EBL21,AZ1,EM4	;	1956-59	;		;	660x355x422	;		;	brak	;	brak	;	brak	;	brak
+Beskid 6173	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1957	;		;	355x183x271	;	5,3	;	brak	;	brak	;	brak	;	brak
+Lotos 6191	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1957	;		;	378x266x198	;		;	brak	;	brak	;	brak	;	brak
+Pionier III	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1957	;		;	375x310x205	;	5	;	brak	;	brak	;	brak	;	brak
+Czardasz 6248	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM4	;	1957-1959	;		;	375x310x205	;	8,5	;	brak	;	brak	;	brak	;	brak
+Podhale 6273	;	Diora	;	Radioodbiornik	;		;	ECH81, 2xECH21, 2xEF22, EBL21, AZ1, EM4	;	1957-58	;		;	660x306x390	;	20	;	brak	;	brak	;	brak	;	brak
+Nokturn 6174	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1957-61	;		;	420x302x195	;	6,7	;	brak	;	brak	;	brak	;	brak
+Preludium 6272	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM4	;	1957-61	;		;	570x300x370	;	14,5	;	brak	;	brak	;	brak	;	brak
+Poemat 6271	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM4	;	1957-63	;		;	506x307x390	;	14,5	;	brak	;	brak	;	brak	;	brak
+Poemat II 6280	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM4	;	1957-63	;		;	506x307x390	;	14,5	;	brak	;	brak	;	brak	;	brak
+Sonatina 6175	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1957-63	;		;	420x302x195	;	6,7	;	brak	;	brak	;	brak	;	brak
+Juhas 6071	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1957-64	;		;		;		;	brak	;	brak	;	brak	;	brak
+Juhas 6097	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1957-64	;	bateria andowa 105V i bateria żarzenia 1,5V	;	335x183x271	;	5	;	brak	;	brak	;	brak	;	brak
+Juhas drewno 1	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1957-64	;	bateria andowa 105V i bateria żarzenia 1,5V	;	378x266x198	;	5	;	brak	;	brak	;	brak	;	brak
+Juhas drewno 2	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1957-64	;		;	335x271x183	;	5	;	brak	;	brak	;	brak	;	brak
+Juhas drewno 3	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1957-64	;	bateria andowa 105V i bateria żarzenia 1,5V	;	335x183x271	;	5	;	brak	;	brak	;	brak	;	brak
+Promyk 6171	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1957-65	;		;	350x270x185	;	5,3	;	brak	;	brak	;	brak	;	brak
+Promyk 6192	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1957-65	;		;	353 x 262 x 18	;		;	brak	;	brak	;	brak	;	brak
+Gopło	;	Diora	;	Radioodbiornik	;		;		;	1958	;		;		;		;	brak	;	brak	;	brak	;	brak
+Nokturn 6181	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1958	;		;	420x302x195	;	6,7	;	brak	;	brak	;	brak	;	brak
+Sonatina 6182	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1958	;		;	425x310x200	;	6,7	;	brak	;	brak	;	brak	;	brak
+Czardasz II 6279	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1,EM4	;	1958-60	;		;	510x315x220	;	8,5	;	brak	;	brak	;	brak	;	brak
+Kaprys 6275	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,EM4,AZ1	;	1958-60	;		;	570x230x335	;	9	;	brak	;	brak	;	brak	;	brak
+Symfonia	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECH81,2xECH21,2xEF22, EBL21,AZ1,EM4	;	1958-61	;		;	680x410x310	;	22	;	brak	;	brak	;	brak	;	brak
+Juhas 6072	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1958-64	;		;		;		;	brak	;	brak	;	brak	;	brak
+Juhas 6073	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T	;	1958-64	;		;		;		;	brak	;	brak	;	brak	;	brak
+Promyk 20402	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	1958-68	;		;	380x290x190	;		;	brak	;	brak	;	brak	;	brak
+Kaprys 6288	;	Diora	;	Radioodbiornik	;		;	2xECH21, EBL21,EM4,AZ1	;	1959	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tramp '59	;	Diora	;	Radioodbiornik przenośny	;		;	tranzystory	;	1959	;		;		;		;	brak	;	brak	;	brak	;	brak
+Serenada 6277	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM4	;	1959-61	;		;	600x384x354	;	14	;	brak	;	brak	;	brak	;	brak
+Serenada II 6299	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EBL21,AZ1,EM4	;	1959-61	;		;	600x384x354	;	14	;	brak	;	brak	;	brak	;	brak
+Ballada	;	Diora	;	Radioodbiornik z gramofonem	;		;	2xECH21,EF22,2xEBL21,AZ4	;	195x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Cis	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1 ?	;	195x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Noteć	;	Diora	;	Radioodbiornik	;		;	2xUCH21,UBL21,UY1N	;	195x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Pionier B	;	Diora	;	Radioodbiornik	;		;	DK21, DF21, DAC21, DL21	;	195x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Pionier B2	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T, 1S5T,3S4T	;	195x	;		;	350x225x170	;		;	brak	;	brak	;	brak	;	brak
+Pionier B3	;	Diora	;	Radioodbiornik	;		;	1R5T,1T4T, 1S5T,3S4T	;	195x	;		;	385x260x180	;		;	brak	;	brak	;	brak	;	brak
+Opera	;	Diora	;	Radioodbiornik	;		;		;	1960	;		;		;		;	brak	;	brak	;	brak	;	brak
+Serenada 6294	;	Diora	;	Radioodbiornik z gramofonem	;		;	2×ECH21, EBL21, AZ1, EM4	;	1960	;		;	600×384×354	;	14	;	brak	;	brak	;	brak	;	brak
+Tango 6296	;	Diora	;	Radioodbiornik	;		;	2xECH21,EBL21,AZ1	;	1960	;		;		;		;	brak	;	brak	;	brak	;	brak
+Kaprys 6295	;	Diora	;	Radioodbiornik	;		;	2xECH21, EBL21, EM4, AZ1	;	1960 ?	;		;	570×230×335	;		;	brak	;	brak	;	brak	;	brak
+Ton 6207	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1960 ?	;		;	260x165x135	;	3,2	;	brak	;	brak	;	brak	;	brak
+Koncert	;	Diora	;	Radioodbiornik z gramofonem	;		;	ECC85,ECH81,EF89,EL84,EM80,EM34,SPS6B	;	1960-61	;		;	550x300x240	;	15	;	brak	;	brak	;	brak	;	brak
+Kos 6290	;	Diora	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1960-61	;		;	260x165x135	;	3,2	;	brak	;	brak	;	brak	;	brak
+Eltra MOT 59	;	Eltra	;	Radioodbiornik przenośny	;		;	OC72, tranzystory 5, diody 2	;	1959	;		;	160x90x38	;	0,53	;	brak	;	brak	;	brak	;	brak
+Koliber MOT 59-1	;	Eltra	;	Radioodbiornik przenośny	;		;	OC72, tranzystoty 5	;	1959-60	;		;	160x90x38	;	0,5	;	brak	;	brak	;	brak	;	brak
+Koliber MOT 601	;	Eltra	;	Radioodbiornik przenośny	;		;	OC72x2, tranzystory 6	;	1960	;		;	160x90x38	;	0,5	;	brak	;	brak	;	brak	;	brak
+R 102	;	Eltra	;	Radioodbiornik przenośny stereo	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Aga RSZ-F T3	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1	;	1948	;		;	482x340x270	;		;	brak	;	brak	;	brak	;	brak
+Aga T-3	;	ZRK	;	Radioodbiornik	;		;	ECH21,2x6K7,EBL21,AZ1	;	195x	;		;	48x34x24	;		;	brak	;	brak	;	brak	;	brak
+Aida 3201	;	ZRK	;	Radioodbiornik z gramofonem	;		;	ECH81,EF89,EBF89, EL84,EM80	;	1960	;		;	675x360x365	;	17	;	brak	;	brak	;	brak	;	brak
+Barbara	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1961	;		;	260x180x130	;	3	;	brak	;	brak	;	brak	;	brak
+Bolero	;	ZRK	;	Radioodbiornik	;		;	ECC85,ECH81,EBF89, ECC85,EL84,EM4, DOGx2,sel2p	;	1958	;		;	620x420x260	;	15	;	brak	;	brak	;	brak	;	brak
+Czar	;	ZRK	;	Radioodbiornik przenośny	;		;	OC72x2, tranzystory x7	;	1961	;	7,5V (5 baterii R10)	;	200 x 140 x 60	;	1,2	;	brak	;	brak	;	brak	;	brak
+Eroica 3201	;	ZRK	;	Radioodbiornik	;	5W	;	ECC85,EF89,ECH81,EBF89, ECC83,PL81x2,EM4	;	1960	;		;	740x450x310	;	24	;	brak	;	brak	;	brak	;	brak
+Eroica 3202	;	ZRK	;	Radioodbiornik	;		;	ECC85,EF89,ECH81,EBF89, ECC83,EL84x2,EM80	;	1960 po	;		;	740x450x310	;	24	;	brak	;	brak	;	brak	;	brak
+Etiuda	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1958	;		;	250x360x580	;		;	brak	;	brak	;	brak	;	brak
+Etiuda II	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1960	;		;	620x330x250	;	14	;	brak	;	brak	;	brak	;	brak
+Figaro 3291	;	ZRK	;	Radioodbiornik	;		;	ECH81,EBF89,ECL82,SPS5A	;	1960	;		;	260x180x130	;	3	;	brak	;	brak	;	brak	;	brak
+Karioka	;	ZRK	;	Radioodbiornik	;		;	ECC85,EF89,ECH81,EBF89, ECC85,EL84,EM4	;	1961	;		;		;		;	brak	;	brak	;	brak	;	brak
+Koncert-Stereo	;	ZRK	;	Radioodbiornik	;		;		;	1960	;		;		;		;	brak	;	brak	;	brak	;	brak
+Malwa 3301	;	ZRK	;	Radioodbiornik	;		;	1R5T,1T4T,1T4T,DM70 + 4 trazn.	;	1960	;		;	460x290x230	;	6,3	;	brak	;	brak	;	brak	;	brak
+Miki	;	ZRK	;	Radioodbiornik samochodowy	;	 2W	;	EF97,ECH83,EBF83,EF89, TG70	;	1960	;	12,6V	;	180x46x40	;	2	;	brak	;	brak	;	brak	;	brak
+Rapsodia	;	ZRK	;	Radioodbiornik	;		;	ECH81,EF89,EBF89,EL84,EM4	;	1960	;		;	680 x 400 x 280	;	16	;	brak	;	brak	;	brak	;	brak
+Rapsodia 61	;	ZRK	;	Radioodbiornik	;		;	ECH81,EF89,EBF89,EL84,EM4	;	1961	;		;		;		;	brak	;	brak	;	brak	;	brak
+Recital	;	ZRK	;	Radioodbiornik	;		;		;	1961	;		;		;		;	brak	;	brak	;	brak	;	brak
+Stolica	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1955-1959	;		;	580x370x250	;	12	;	brak	;	brak	;	brak	;	brak
+Stolica 3251	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1955-59	;		;	580x370x250	;	12	;	brak	;	brak	;	brak	;	brak
+Stolica II 3262	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1955-59	;		;	580x370x250	;	12	;	brak	;	brak	;	brak	;	brak
+Stolica III 3263	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22, EBL21,AZ1,EM4	;	1955-59	;		;	580x370x250	;	12	;	brak	;	brak	;	brak	;	brak
+Stolica IV 3264	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1955-59	;		;	580x370x250	;	12	;	brak	;	brak	;	brak	;	brak
+Stolica V 3275	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1957-59	;		;		;		;	brak	;	brak	;	brak	;	brak
+Syrena	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1954-59	;		;	570x360x260	;		;	brak	;	brak	;	brak	;	brak
+Syrena 3262	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1957-59	;		;	570x360x260	;		;	brak	;	brak	;	brak	;	brak
+Szarotka (eksport)	;	ZRK	;	Radioodbiornik	;		;	1R5T, 1T4T, 1S5T, 3S4T, DM70	;	1960	;	120V	;	225 × 170 × 65	;		;	brak	;	brak	;	brak	;	brak
+Szarotka I 3361	;	ZRK	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T,DM70	;	1957	;		;	225x170x65	;	2	;	brak	;	brak	;	brak	;	brak
+Szarotka II DSK	;	ZRK	;	Radioodbiornik	;		;	1R5T,1T4T,1S5T,3S4T,DM70	;	1957	;	4 baterii R20	;	225x170x65	;	2	;	brak	;	brak	;	brak	;	brak
+Tatry 3281	;	ZRK	;	Radioodbiornik	;		;	ECH81,EF89,EBF89,EL84,EM4,SPS6B	;	1958	;		;	260x420x620	;	15	;	brak	;	brak	;	brak	;	brak
+Tatry 60 3201	;	ZRK	;	Radioodbiornik	;		;	ECH81,EF89,EBF89,EL84,EM4,SPS6B	;	1960	;		;		;		;	brak	;	brak	;	brak	;	brak
+Trubadur (ZRK)	;	ZRK	;	Radioodbiornik	;		;		;	1960	;		;		;		;	brak	;	brak	;	brak	;	brak
+Wola I 3265	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1957-60	;		;	570x380x240	;		;	brak	;	brak	;	brak	;	brak
+Wola II	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	1958	;		;		;		;	brak	;	brak	;	brak	;	brak
+Wola II 3272	;	ZRK	;	Radioodbiornik	;		;	ECH21,2xEF22,EBL21,AZ1,EM4	;	195x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Żerań 3471	;	ZRK	;	Radioodbiornik samochodowy	;		;	2xECH81,2xEF89,EBF89,EL84	;	1958	;	6 lub 12V	;		;	4	;	brak	;	brak	;	brak	;	brak
+Żerań II	;	ZRK	;	Radioodbiornik samochodowy	;		;		;	1960	;		;		;		;	brak	;	brak	;	brak	;	brak
+Detefon DT2	;	Telpod (T-7)	;	Radioodbiornik detektorowy	;		;	bez elementów aktywnych	;		;		;	150x110x60	;		;	brak	;	brak	;	brak	;	brak
+Fonoset ZM-10	;	Fonica	;	Radioodbiornik z gramofonem	;		;	tranzystory	;		;		;		;		;	brak	;	brak	;	brak	;	brak

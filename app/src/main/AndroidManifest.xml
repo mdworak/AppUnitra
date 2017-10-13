@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.matje.unitraapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Glowna"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Tabs"
+            android:label="UnitraAPP"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Kolumny_list"
+            android:label="@string/title_activity_kolumny_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Radiodobiorniki_list"
+            android:label="@string/title_activity_radiodobiorniki_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Gramofony_list"
+            android:label="@string/title_activity_gramofony_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Magnetofony_list"
+            android:label="@string/title_activity_magnetofony_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Radio_magnetofon_list"
+            android:label="@string/title_activity_radio_magnetofon_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Radiola_list"
+            android:label="@string/title_activity_radiola_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Inne_list"
+            android:label="@string/title_activity_inne_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Wzmacniacz_list"
+            android:label="@string/title_activity_wzmacniacz_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Katalogi_list"
+            android:label="@string/title_activity_katalogi_list"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

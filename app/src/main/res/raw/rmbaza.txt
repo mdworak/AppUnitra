@@ -1,0 +1,62 @@
+﻿Eltra	;	Radio-magnetofon przenośny	;	Bogna RM 413	;	tranzystory + ukł. scalone	;	1992	;	250x50x120	;	0,5	;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Bogna RM 4200	;	tranzystory + ukł. scalone	;	1992	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Bogna RR 413	;	tranzystory + ukł. scalone	;	1991	;	250x50x120	;	0,5	;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	CDR-89EF	;	tranzystory + ukł. scalone	;	1989	;	630x200x180	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon	;	CDR-99E	;	tranzystory + ukł. scalone	;	1989 około	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Radio-magnetofon	;	Compact DSS 361	;	tranzystory	;	1977	;	550x400x180	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon przenośny	;	Condor RM-820S	;	tranzystory, US	;	198x	;	590x250x140	;	6,8	;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon	;	CS 201, CS 202	;	UL 7518G, UL 1976N, BC 413C, BC 238, BC 238B, BC 2...	;	1989	;	440 x 235 x 260	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon	;	CTR 351 Uniwersum	;	tranzystory	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon	;	Daria RM 801	;	MBA810,UL1211,UL1601N,tranzystory 28	;	1982	;	360x220x100	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon	;	Daria RM 803S	;	MBA810,UL1211,UL1601N,tranzystory 28	;	1983	;	360x220x100	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon	;	Daria RMS 802	;	tranzystory + ukł. scalone	;	1982	;	360 x 220 x 100	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon przenośny	;	Diamant	;	tranzystory + ukł. scalone	;	1981	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Edyta RMS-823	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Emilia RM 312	;	tranzystory + ukł. scalone	;	198X	;	275x160x65	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Emilia RM-407	;	tranzystory + ukł. scalone	;	1983	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Hania RMS 401	;	tranzystory + ukł. scalone	;	1985	;	380x170x75	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Hania RMS 4100	;	tranzystory + ukł. scalone	;	199X	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Jola 2	;	tranzystory	;	1974	;	340x210x75	;	3,4	;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Jola MKR 1251	;	tranzystory	;	1973	;	340x210x75	;	3,5	;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Klaudia 2 RMS 801	;	tranzystory + ukł. scalone	;	198x	;	430x260x110	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Klaudia RMS-801	;	tranzystory + ukł. scalone	;	1982	;	410x250x110	;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Radio-magnetofon przenośny	;	Linda	;		;	197x	;	295x185x80	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Maja	;	UL1492,UL1211,tranzystory	;	1975	;	325 x 200 x 80	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Maja 2	;	tranzystory	;	1979	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Manuela-2 RMS-813	;	tranzystory + ukł. scalone	;	198?	;	540x160x126	;	4,6	;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Manuela-3 RMS-818	;	tranzystory + ukł. scalone	;	1990	;	540x160x126	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Marta RM 405	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	MK 125 FM	;	tranzystory	;	1974	;	201 x 230 x 65	;	2,5	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	MK 2500 automatic	;	tranzystory + ukł. scalone	;	197x	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	MK 2500A	;	tranzystory + ukł. scalone	;	197x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	Palladium RR 112	;	tranzystory + ukł. scalone	;	199x	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Radio-magnetofon	;	Partner DMT-431	;	tranzystory	;	1972	;	520x240x150	;	7,5	;	brak	;	brak	;	brak	;	brak
+Diora	;	Radio-magnetofon z gramofonem	;	Polonez stereo DSS 361	;	tranzystory+US	;	1979	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RB 3200	;	tranzystory + ukł. scalone	;	1981	;	345x175x75	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 111	;	9 tranzystorów, UL1211, UL1482	;	199x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 112	;	tranzystory + ukł. scalone	;	198X	;	284 x 150 x 75	;	1,8	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 121	;	tranzystory, IC	;	1982	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 121a	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 121c	;	tranzystory + ukł. scalone	;	1990	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 132	;	tranzystory, IC	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 221	;	tranzystory, IC	;	198x	;	345 x 210 x 85	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RM 222	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon przenośny	;	RM 303	;	tranzystory + ukł. scalone	;	199x	;	275 x 170 x 75	;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon przenośny	;	RM 350	;	10 tranzystorów, UL1219, UL1482, UL1901	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon przenośny	;	RM 805 S	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon przenośny	;	RM-301 Wilga	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+Lubartów	;	Radio-magnetofon przenośny	;	RM830S TANDEM	;	UL1042, UL1219, U2343B lub UL1623, UL1482, BC238, ...	;	1989	;	540x150x125	;	3	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RMS 303	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RMS 321	;	tranzystory + ukł. scalone	;	199x pocz.	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RMS 404	;	m.in. BC, BF, UL1621, UL1901, U416B etc.	;	1985 do ko	;	456x247x121	;	5	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RMS 451	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RMS 451a	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RMS 475a	;	tranzystory + ukł. scalone	;	198X	;	516×193×99	;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	RMS 816	;	tranzystory	;	199x	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	RMS 817	;	tranzystory + ukł. scalone	;	1986	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	Royal TR-1000	;	tranzystory + ukł. scalone	;	198x	;	540x160x126	;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RR-405l	;	tranzystory + ukł. scalone	;	199x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RR-450	;	tranzystory + ukł. scalone	;	199x	;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radio-magnetofon przenośny	;	RRS - 4050	;	tranzystory + ukł. scalone	;	1991	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	SDKR 2000	;	tranzystory + ukł. scalone	;	198x	;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Radio-magnetofon przenośny	;	TCR 88	;	tranzystory + ukł. scalone	;		;		;		;	brak	;	brak	;	brak	;	brak

@@ -1,0 +1,64 @@
+﻿Diora	;	Telewizor	;	Aladyn II	;		;	196x	;		;		;	Przewodowy pilot.	;	brak	;	brak	;	brak	;	brak
+WZT	;	Telewizor	;	Belweder OT1471	;		;	1957-60	;	510×410×370	;	23	;		;	brak	;	brak	;	brak	;	brak
+WZT	;	Telewizor	;	Belweder OT17xx	;	3xPCC85, 4xEF80, 4xECL80, 2xPL83, PL81, PY81, EY86...	;	1959	;	500x455x520	;		;	Produkowany w dwoch wersjach: południowa i północna.	;	brak	;	brak	;	brak	;	brak
+Unimor	;	Telewizor	;	Neptun 624	;	PCL86; PFL200; PCL805; PCF802; PL504; PY88; UL 15...	;	1976-79	;		;		;	Przekątna kineskopu 24", kąt odchylenia 110 stopni.	;	brak	;	brak	;	brak	;	brak
+WZT	;	Telewizor	;	Szmaragd OT1791	;	PCC84, 2xPCF82, 5xEF80, ECL80, PCL82, PL83, PL841,...	;	1959	;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Telewizor	;	Tosca Lux	;		;	196x	;		;		;	Głowica na 12 kanałów	;	brak	;	brak	;	brak	;	brak
+WZT	;	Telewizor	;	Vela 202	;		;	197X	;		;		;	12 calowy czarny biały telewizor	;	brak	;	brak	;	brak	;	brak
+WZT	;	Telewizor	;	Wisła A	;	6Ż3P, 6N1P, 6Ż3P, 6Ż3P, DGC12, 6Ż3P, DGC14, 6P...	;	195X	;		;		;	Pierwszy produkowany seryjnie telewizor w Polsce.	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetowid	;	MTV 10	;	42 tranzystory, 33 diody	;	1974	;	442 x 370 x 220	;		;	Pierwsza krajowa konstrukcja magnetowidu szpulowego powszechnego użytku.	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetowid	;	MTV 20	;	tranzystory + ukł. scalone	;	198x	;	440 x 348 x 205	;	10,5	;	Zastosowanie przy taśmach magnetycznych.	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Magnetowid	;	MTV 300	;	tranzystory + ukł. scalone	;	1989	;	430x360x90	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Magnetowid	;	MVD-101	;	440x99x360	;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	Sd - 102	;		;	198x	;		;		;	Moc 100mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	Sd - 103	;		;	198x	;		;		;	Moc 200mW, cena w 1987 - 3600zł	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	Sd - 504-m	;		;	198x	;		;	0,401	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	Sd - 505-m	;		;	198x	;		;	0,45	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	Sd-106	;		;	198x	;		;	0,087	;	Moc 100mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	Sd-112	;		;	199x	;		;	0,047	;	Moc 100mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SM 73-3	;		;	1973	;		;	0,015	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SM 73-4	;		;	1973	;		;		;	Moc 100mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SN 50	;		;	197x	;		;	0,25	;	Moc 100mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SN 52M	;		;	197x	;		;	0,26	;	Cena w 1978 roku - 660zł	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SN 55	;		;	1980	;		;	0,25	;	100mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SN-60	;		;	1973	;		;	0,72	;	400mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SN-62	;		;	197x	;		;	0,35	;	100mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SN-62p	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	SN-63	;		;	197x	;		;	0,22	;	200mW	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	Md 249	;		;	198x	;		;	0,23	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	Md 268	;		;	199x	;		;	0,17	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MD-IVp	;		;	196x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO 12 wz	;		;	197x	;		;	0,09	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO 12-2 wz	;		;	197x	;		;	0,09	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO 13	;		;	197x	;		;	0,15	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO 14	;		;	197x	;		;	0,17	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO 21 wz	;		;	197x	;		;	0,07	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO 23	;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO 28	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO IX	;		;	1975	;		;	0,2	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO IX ( spec. przez )	;		;	1975	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDO VIII	;		;	1969	;		;	0,12	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 22	;		;	197x	;		;	0,1	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 22 wz	;		;	197X	;		;	0,08	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 24	;		;	198x	;		;	0,4	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 25	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 26	;		;	197x	;		;	0,12	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 27	;		;	198x	;		;	0,145	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 32	;		;	197x	;		;	0,12	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 34	;		;	198x	;		;		;	Cena w 1983 - 880zł	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU 37 wz 3	;		;	199x	;		;	0,1	;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Mikrofon	;	MDU VII	;		;	196x	;		;	0,2	;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Odtwarzacz płyt kompaktowych	;	CDF 001	;		;	1991	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Zegar sterujący	;	DT 001 R	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Korektor graficzny	;	FS 042	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Amplituner jugosłowiański	;	HI-FI 160	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Aparat abonencki	;	INTERVOX	;		;	1972	;		;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Kalkulator	;	K-741 M	;	VFD DG8F	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Sygnalizator zmoczonej pieluchy	;	Malec	;	TG50	;	1965	;		;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Przystawka zegarowa	;	Przystawka zegarowa PZ611	;		;	1964	;		;		;		;	brak	;	brak	;	brak	;	brak
+Radmor	;	Korektor graficzny	;	Radmor 5470	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Słuchawki	;	Sd - 501	;		;	198x	;		;	0,37	;	Moc 250mW	;	brak	;	brak	;	brak	;	brak
+Unitra	;	Automat zgłoszeniowy	;	SETOJ	;	CPU MCY7880	;	197?	;	440×320×140	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Tuner satelitarny	;	TSA 8081	;		;		;		;		;	Pierwszy polski tuner satelitarno-analogowy	;	brak	;	brak	;	brak	;	brak
+Diora	;	Stereofoniczny zestaw muzyczny HIFI	;	ZM-1001	;		;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Zestaw muzyczny	;	ZM-40f	;		;	1978	;	1000 x 600 x 260	;		;	Przeznaczony do lokali rozrywkowych, klubów itp.	;	brak	;	brak	;	brak	;	brak

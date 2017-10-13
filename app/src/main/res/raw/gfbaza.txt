@@ -1,0 +1,81 @@
+﻿Fonica	;	Gramofon	;	Delta G-450	;	bez elementów aktywnych	;	1968	;	16, 33, 45, 78	;		;	315x270x135 z pokrywą	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	DP 5100	;	tranzystory	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	Foni - Combo WG-551	;	tranzystory	;	1975 przed	;	33, 45	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	Foni - Combo WG-552f	;		;	197x	;	33, 45	;		;	400x265x150	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-1100fs Daniel	;	tranzystory + ukł. scalone	;	1979 przed	;	33, 45	;	Automatyczny	;	450x380x150	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	G-221w	;	bez elementów aktywnych	;	1962	;	33, 45, 78	;		;	340x275x140	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	G-250	;	bez elementów aktywnych	;	1963-67	;	33, 45, 78	;		;	340x275x130	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	G-260 Storczyk	;	bez elementów aktywnych	;	1970	;		;		;	330x270x150	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	G-260 w Narcyz	;	bez elementów aktywnych	;	1969-71	;	33, 45, 78	;		;	330x270x150	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	G-270w Aster	;	bez elementów aktywnych	;	1971/72	;	16, 33, 45	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	G-271w	;	bez elementów aktywnych	;	1972	;	16, 33, 45	;		;	345x300x156	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	G-410 Maestro	;	bez elementów aktywnych	;	1964	;		;		;	375x295x120	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-417 Cyryl	;	bez elementów aktywnych	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-500s	;	bez elementów aktywnych	;	1971	;	16, 33, 45, 78	;		;	360x310x180	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-560fs	;	bez elementów aktywnych	;	1972	;		;		;	360x304x174	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-600	;	bez elementów aktywnych	;	1970	;	16, 33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-601 A	;		;	1976	;	33, 45	;		;	430x370x200	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-601f	;	bez elementów aktywnych	;	1972	;	16, 33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-620 Fryderyk	;	tranzystory	;	1980	;		;		;	440x380x160	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-8010	;	tranzystory	;	1988	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	G-902fs Emanuel	;		;	198x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-420 (GS-424) Adam	;		;	19xx	;	33, 45	;		;	440x380x155	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-431 Bernard	;	tranzystory	;	1990	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-434 Bernard	;	tranzystory	;	1985	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-438 Bernard	;	tranzystory	;	1990	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-464	;	tranzystory	;	1984	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-470 Bernard	;	tranzystory	;	1988	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-472	;		;	199x	;	33, 45	;		;	350x390x110 	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-476	;		;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-477	;		;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GS-478	;		;	199x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GWS-106 b	;	tranzystory + ukł. scalone	;	1988	;		;		;	380x310x311	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	GWS-111 Artur	;	tranzystory + ukł. scalone	;	19xx	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	GWS-122 Cyryl	;	UL1901, BD135, TBA8010AS	;	1987	;		;		;	375x310x120	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	GWS-123 Artur	;	tranzystory + ukł. scalone	;	1984	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	GWS-302	;	tranzystory	;	1988	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	GWS-303	;	tranzystory + ukł. scalone	;	198x	;	33, 45	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	Karolinka 2 WW GE-56/2	;	EF80, EL84, EZ80	;	1959	;	33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	Karolinka 3 WW GE-602	;	UCL82, SPS6B	;	1961	;	33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	Karolinka WW-GE-56 (a)	;	EF21,EBL21,AZ1	;	1957	;	33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	Karolinka WW-GE-56 (b)	;	EF21, EBL21, AZ1	;	1958	;	33, 45, 78	;		;	370x355x155	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem (automat muzyczny)	;	M-110 Meloman	;	ECC83, ECC83, EL34, EL34, GZ34	;	1964	;	45	;		;	1450x850x740	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem (automat muzyczny)	;	M-122, M-123	;	ECC82, ECC83, ECC83, EL34, EL34, GZ34	;	1973	;	45	;		;	1450x850x740	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	S-GE-56	;	bez elementów aktywnych	;	1956	;	33, 45, 78	;		;	 545x440x220	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	Stereo WG 260	;	4xECL82,ECC83	;	1964-1965	;	16, 33, 45, 78	;		;	535x445x148	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon	;	W-GE-53	;	bez elementów aktywnych	;	1954	;	33, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny bez wzmacniacza	;	W-GE-56	;	bez elementów aktywnych	;	1956	;	33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG 415 LUX	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-1100fs	;	tranzystory	;	198x	;		;		;	555x370x130	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon prznośny ze wzmacniaczem	;	WG-252 Bambino	;	ECL82 lub ECL86	;	1963	;		;		;	370x355x155	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon prznośny ze wzmacniaczem	;	WG-258 Monoton	;	lampy	;	1974 przed	;	33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-262 Bambino 2	;	ECL86	;	1969	;	33, 45, 78	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-262 Bambino 2 (v.2)	;	ECL86	;	197x	;		;		;	370x335x155	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-263 Bambino 3	;	ECL86	;	1970	;	33, 45, 78	;		;	370x335x155	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-264 Bambino 4	;	ECL86	;	1971	;	16, 33, 45	;		;	370x335x155	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmcniaczem	;	WG-270 Mimoza	;	2xECL82,SPS6B	;	1964	;	33, 45, 78	;		;	535x445x148	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-280 Dueton	;	2xECL82, SPS6B	;	1964	;	33, 45, 78	;		;	440x300x180	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-291 Tranzyston	;	TG3A,TG5,TG50, SFT212 lub TG70	;	1968	;	33, 45, 78	;		;	360x285x150	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-292 Tranzyston 2	;	tranzystory, stopień mocy SFT212 lub TG70	;	1971	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-400 Mister Hit 71	;	AC178/179,BC109,BC178	;	1971	;	33, 45	;		;	353x253x110	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-401 Party Hit	;	tranzystory	;	1972	;	33, 45	;		;	351x241x114	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-402 Stereo Hit	;	tranzystory BCP109B, BC178	;	1972	;	33, 45	;		;	355x253x170	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-414 Mister Hit 76	;	układy scalone	;	1976	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-417 Stereo Lux	;	układy scalone	;	197x	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-430 Luxton	;	ECL82 (ECL86?)	;	1965	;		;		;	390x290x150	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-430 Luxton 2 / Maestro	;	ECL86	;	1968	;		;		;	390x290x170	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-460	;	2xECL86,ECC82	;	1971	;	16, 33, 45, 78	;		;	315x275x135 z pokrywą	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-500f	;	ECL86x2,ECC82	;	1971	;		;		;	470x340x210	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-510	;	GC511/521,tranzystory 5	;	1972	;	16, 33, 45, 78	;		;	430x290x185	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-511	;	GC511/521,tranzystory 5	;	1972	;		;		;	430x285x165	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-550	;	tranzystory	;	1972	;	33, 45	;		;	410x290x170	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-580f	;	tranzystory	;	197x	;	33, 45	;		;	410x300x190	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-580fs	;	GC511/521,tranzystory	;	1973	;	16, 33, 45, 78	;		;	420x300x190	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-581fs	;	GC511/521,tranzystory	;	1973	;		;		;	420x300x190	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-610f Fonomaster	;	tranzystory 34	;	1973	;	16, 33, 45	;		;	550x365x210	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-610f Fonomaster '76	;	tranzystory	;	1976	;	33, 45	;		;	520x360x120	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-700f Camping Stereo	;	tranzystory	;	1977 przed	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WG-701 Camping	;		;	19xx	;	33, 45	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon ze wzmacniaczem	;	WG-903 Artur	;	tranzystory + ukł. scalone	;	19xx	;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WGb-130 Bratek	;	TG50, tranzystory	;	1968	;	45	;		;	260x180x115	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Gramofon przenośny ze wzmacniaczem	;	WGZ-b1 YOGI	;	tranzystory	;	1972	;	45	;		;	300x100	;	brak	;	brak	;	brak	;	brak

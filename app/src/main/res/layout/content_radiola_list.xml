@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.matje.unitraapp.Radiola_list"
+    tools:showIn="@layout/app_bar_radiola_list">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Wyszukaj"
+            android:id="@+id/find"
+            android:inputType="text"
+            android:imeOptions="actionSend"
+            android:drawableLeft="@android:drawable/ic_menu_search"
+            android:backgroundTint="@color/colorPrimary"
+            android:textCursorDrawable="@drawable/color_cursor"
+            />
+
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="10dp"
+            android:layout_below="@+id/find"
+            android:id="@+id/listaRD">
+        </ListView>
+    </RelativeLayout>
+
+</android.support.constraint.ConstraintLayout>

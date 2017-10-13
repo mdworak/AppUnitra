@@ -1,0 +1,53 @@
+﻿Fonica	;	Wzmacniacz - element wieży	;	302M Cariolan	;	tranzystory + ukł. scalone	;	198X	;	300 X 60 X 200	;		;	2×15W	;	30-30000	;	80W	;	brak	;	brak	;	brak	;	brak
+Polkat	;	Wzmacniacz	;	Akord 40	;	tranzystory	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz	;	ALTUS - V60	;	tranzystory + ukł. scalone	;	198X	;	300 X 60 X 200	;		;	2×15W	;	30-30000	;	80W	;	brak	;	brak	;	brak	;	brak
+PWŁ	;	Wzmacniacz z głośnikiem	;	Amplifon	;	lampy	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+PZT	;	Wzmacniacz z głośnikiem	;	Amplifon S	;	A425,B409	;	1934	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+PZT	;	Wzmacniacz z głośnikiem	;	Amplifon Z	;	B409,1802	;	1934	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz samochodowy	;	AMT-301	;	tranzystory + ukł. scalone	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz samochodowy	;	AWT 202	;	tranzystory	;	197x	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz monofoniczny samochodowy	;	AWT-203	;	tranzystory	;	197x	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Polkat	;	Wzmacniacz monofoniczny	;	Bistro	;		;	1972	;	300x120x85	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz stereo	;	DSL-201 (W)	;	ECL86x4,ECC83x2	;	1971	;	590x247x170	;	11,5	;		;		;		;	brak	;	brak	;	brak	;	brak
+PZT	;	Wzmacniacz z głośnikiem	;	Echo 011	;	B409,1802	;		;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz	;	Kleopatra 2 WSH-402	;	24 tran.	;	1979	;	430 x 270 x 120	;		;	2 x 20 W dla 4Ω	;	40-16 000	;	110VA	;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz	;	Kleopatra hifi WST-102	;	2N3055, tranzystory 24	;	1977	;	430x270x120	;	8	;	2 x 20 W dla 4Ω	;		;	110W	;	brak	;	brak	;	brak	;	brak
+Elza	;	Wzmacniacz monofoniczny	;	Luna WS-17	;	ECC83x3,EL84x2,EZ81	;	196x	;		;		;	17W	;	50-12500	;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz stereo	;	Meluzyna WST-101	;	2N3055, tranzystory 28	;	1972	;	430 x 270 x 120	;	7	;	2 x 20 W dla 4Ω	;	40-20000	;	110VA	;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Wzmacniacz - zastosowania specjalnego	;	MT-1 megafon turystyczn	;	TG 5, TG 50, GT 70	;	1969	;	105 x 200 x 160	;	1,6	;	3W	;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Wzmacniacz z głośnikiem	;	MT-3 megafon turystyczny	;	tranzystory + ukł. scalone	;	198x	;	190 x 115 x 57	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Tonsil	;	Wzmacniacz z głośnikiem	;	MT-4 megafon turystyczny	;	układy scalone	;	198x	;	190 x 115 x 57	;	0,8	;	2W	;	0,5-5000	;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz stereo	;	PA 1801	;	tranzystory	;	198x	;	430 x 208 x 120	;		;	2 x 18 W	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz stereo	;	PA 9002	;	tranzystory	;	1980	;	440x320x140	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	PW 3015	;	tranzystory + ukł. scalone	;	198x	;	350 x 60 x 200	;	3,6	;	2x15W	;	30-30000	;	85W	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	PW 3017	;	tranzystory + ukł. scalone	;	198x	;	350 x 60 x 200	;	3,6	;	2x15W	;	30-30000	;	85W	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz stereo	;	PW 7011	;	tranzystory	;	1987	;	440x280x92	;		;	2x25W	;	30-30000	;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz stereo	;	PW 7020	;	BC149C,BC158B,BC416C,BC237,BD139/140,2N6488/2N6491	;	1984	;	440 x 280 x 92	;		;	2x35	;	30-30000	;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	PW 8010	;	tranzystory	;	198x	;	300 X 60 X 200	;		;	2×15W	;	30-30000	;	80W	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	PW 9010	;	tranzystory + ukł. scalone	;	198x	;	440 x 60 x 280	;	6,5	;	2x35W	;	30-30000	;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	PW 9013	;	tranzystory + ukł. scalone	;	198x	;	440 x 60 x 280	;	6,5	;	2x35W	;	30-30000	;	190VA	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	PW 9014	;	tranzystory + ukł. scalone	;	1990	;	440 x 60 x 280	;	6,5	;	2x35W	;	30-30000	;	190VA	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	PW-8040	;	tranzystory	;	198x	;	300 x 200 x 57	;		;	2x20W	;	30-30000	;	80W	;	brak	;	brak	;	brak	;	brak
+Radmor	;	Wzmacniacz stereo	;	Radmor A-5512	;	tranzystory + ukł. scalone	;	1992-93	;	440 x 270 x 100	;	7,5	;	2x65W	;	12-120000	;	200VA	;	brak	;	brak	;	brak	;	brak
+Radmor	;	Wzmacniacz	;	Radmor Amplifikator	;	tranzystory	;	1999-2000	;	435 x 340 x 127	;	12	;	2x100W przy 4Ω, 2x60W przy 8Ω	;	2-100000	;	400VA	;	brak	;	brak	;	brak	;	brak
+_inne	;	Wzmacniacz - aparat dla słabosłyszących	;	TON-10	;	tranzystory	;	19xx	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+ZRK	;	Wzmacniacz	;	TWR 12/20	;	tranzystory	;	196x (?)	;	240x960x170	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz stereo	;	W 480 f	;	ECC82, 2x ECL86	;	1971	;		;		;	2x2W	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz	;	W-600	;	EL84x4,ECC83x4,EF86x2,ECC82,TG70	;	1970	;		;		;	2x6W	;	40-15000	;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz z głośnikiem	;	W-701	;	ECC83, ECC85, EF86, EM84, 2xEL84, EZ81	;	1972 przed	;		;		;	12W	;	40-15000	;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz stereo	;	W-800 f	;	tranzystory	;	1972	;	327 x 262 x 92	;	5,6	;	2x6W	;	40-15000	;	60VA	;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz samochodowy	;	WA-641	;	tranzystory 2xTG70	;	1966	;		;		;	2W	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz samochodowy	;	WA-650	;	tranzystory	;	199x	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Eltra	;	Wzmacniacz monofoniczny	;	Wanda PS-742	;	BC 211, BC 148c, BC 149c, UL 1601N, TBA 790KCS,	;	1974	;	320 X 190 X 85	;		;		;		;		;	brak	;	brak	;	brak	;	brak
+PZT	;	Wzmacniacz monofoniczny	;	WR-40	;	lampy	;	1957	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz - element wieży	;	WS 304S	;	tranzystory + ukł. scalone	;	198X	;		;		;	25W	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz - element wieży	;	WS 311D Trawiata	;	tranzystory	;	198x	;		;	5	;	2x20W	;	20-40000	;	100VA	;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz - element wieży	;	WS 354	;	tranzystory + ukł. scalone	;	1986	;	350 x 70 x 260	;	4,5	;	2x31W	;	16-60000	;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz - element wieży	;	WS 442, WS 432	;	2N6488, 2N6491, BD139, BD140, BD135, BC237, BC 307...	;	198X	;	440x90x260	;	8	;	2x35W	;	20-20000	;	140VA	;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz - element wieży	;	WS-301S Trawiata	;	tranzystory + ukł. scalone	;	198x	;	440 x 90 x 270	;	8	;	2x20W	;		;	130VA	;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz - element wieży	;	WS-418 (WS-318)	;	tranzystory	;	1985	;	440x90x260	;		;	2x40W	;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz stereo	;	WS-509D (DS-850A)	;	tranzystory + ukł. scalone	;	198x	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz stereo	;	WSH 205/ASH 110 Emerson	;	tranzystory	;	1977	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+Diora	;	Wzmacniacz stereo	;	WSH-307 / PA9912V	;		;	1979-81	;	430 x 120 x 300	;	15	;	2x70W	;		;		;	brak	;	brak	;	brak	;	brak
+Fonica	;	Wzmacniacz monofoniczny	;	Wzmacniacz hi-fi	;	3x6SN7, 2x6P3S	;	1958	;		;		;		;		;		;	brak	;	brak	;	brak	;	brak
+UNITRA Rz	;	Wzmacniacz monofoniczny	;	ZGA 2-4-30 ECHO	;	układy scalone	;	1989	;	185 x 110 x 100	;		;		;		;		;	brak	;	brak	;	brak	;	brak

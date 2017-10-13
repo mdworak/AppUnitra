@@ -1,0 +1,16 @@
+﻿Diora	;	Radiola	;	DG-203	;	ECC85,ECH81,EBF89,ECL86,EM84	;	1967	;		;		;	Eksport do Wielkiej Brytani	;	brak	;	brak	;	brak	;	brak
+Diora	;	Radiola	;	DG-204	;	ECC85,ECH81,EBF89,ECL86,EM84	;	1968	;	228(606)×1075×385	;	21	;	Eksport do Wielkiej Brytani	;	brak	;	brak	;	brak	;	brak
+Diora	;	Radiola	;	DG-209	;	ECH81,EF89,ECL86,SPS6B	;	1968-1969	;	287 (617)×873×340	;	17,2	;	Eksport	;	brak	;	brak	;	brak	;	brak
+Diora	;	Radiola	;	DGS - 302 UNITRA	;	ECC-85, ECH-81, EBF-89,ECL-86, EM-84	;	1966-1968	;		;		;	Eksport między innymi do Wielkiej Brytani	;	brak	;	brak	;	brak	;	brak
+Diora	;	Radiola	;	DGS-302	;	ECC85, ECH81, EBF89, 3xECC83, 2xEL84, EM84	;	1966-1968	;		;		;	Eksport między innymi do Wielkiej Brytani	;	brak	;	brak	;	brak	;	brak
+Diora	;	Radiola	;	DGS-303	;	ECC85, ECH81, EBF89, 2×ECL86, EM84	;	1969	;	615×1335×340	;	31	;	Eksport do Wielkiej Brytani	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radiola	;	Duet	;		;	1960	;		;		;	Moc 2x10W, zmieniacz na 10 płyt, głośniki w oddzielnych obudowach	;	brak	;	brak	;	brak	;	brak
+Fonica	;	Radiola	;	INTERVOX 72	;	tranzystory	;	1972	;		;		;	Przeznaczona do współpracy z 10 aparatami abonenckimi np. sekretariat.	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radiola	;	KM-534 S Relaks	;		;	1979	;	525 x 345 x 150	;	7,5	;	Moc 2x6W . Odbiornik radiowy, magnetofon kasetowy, gramofon oraz wzmacniacz mocy.	;	brak	;	brak	;	brak	;	brak
+ZDZ Rzeszów	;	Radiola	;	R 100	;		;	1975	;		;		;	Zastosowanie w radiowęzłach szkolnych.	;	brak	;	brak	;	brak	;	brak
+Diora	;	Radiola	;	Szilézia DG-204	;	ECC85, ECH81, EBF89, ECL86, EM84	;	1968-69	;	1070 × 225 × 350	;		;	Eksport do Węgier	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radiola	;	Viola I	;		;	1960	;	370x700x850	;	43	;	Wersja z gramofonem.	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radiola	;	Viola II	;		;	1960	;	370x700x850	;	43	;	Wersja z magnetofonem Melodia	;	brak	;	brak	;	brak	;	brak
+ZRK	;	Radiola	;	Viola-stereo	;		;	1961	;		;		;	Odbiornik radiowy wraz z gramofonem.	;	brak	;	brak	;	brak	;	brak
+inne	;	Radiola	;	ZDZ100/5	;	EL34	;	1973	;		;		;	Odbiornik radiowy wraz z gramofonem Fonica G-271 oraz magnetofonem szpulowym ZK 120.	;	brak	;	brak	;	brak	;	brak
+Unitra	;	Radiola	;	ZR 100	;		;	197X	;		;		;	Zestaw radiowęzłowy. Radioodbiornik Ślązak, magnetofon szpulowy ZK 140 T oraz gramofon G 417 Cyryl.	;	brak	;	brak	;	brak	;	brak

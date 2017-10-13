@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UnitraAPP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_tabs">tabs</string>
+    <string name="title_activity_kolumny_list">Zestawy głośnikowe</string>
+    <string name="title_activity_radiodobiorniki_list">Radioodbiorniki</string>
+    <string name="title_activity_gramofony_list">Gramofony</string>
+    <string name="title_activity_magnetofony_list">Magnetofony</string>
+    <string name="title_activity_radio_magnetofon_list">Radiomagnetofony</string>
+    <string name="title_activity_radiola_list">Radiola</string>
+    <string name="title_activity_inne_list">Inne</string>
+    <string name="title_activity_wzmacniacz_list">Wzmacniacze</string>
+    <string name="title_activity_katalogi_list">Katalogi_list</string>
+</resources>
